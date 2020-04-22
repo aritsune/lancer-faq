@@ -1,0 +1,23 @@
+{
+  "name": "lancer-faq",
+  "version": "1.0.0",
+  "description": "FAQ & errata for Lancer. Generated from Markdown. Contributions welcome",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aritsune/lancer-faq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aritsune/lancer-faq/issues"
+  },
+  "homepage": "https://github.com/aritsune/lancer-faq#readme",
+  "dependencies": {
+    "remarkable": "^2.0.0"
+  }
+}
