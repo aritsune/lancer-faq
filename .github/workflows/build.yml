@@ -1,5 +1,8 @@
 name: Build
-on: [push]
+on:
+  push:
+    branches:
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,8 +15,10 @@ jobs:
     - run: npm install
     - name: Build
       run: npm run build
-    - name: Upload artifact
-      uses: actions/upload-artifact@v1
-      with:
-        name: index.html
-        path: dist/index.html
+    - name: Publish to Netlify
+      uses: netlify/actions/cli@master
+        with:
+          args: deploy --dir=dist
+      env:
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
