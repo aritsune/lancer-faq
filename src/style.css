@@ -1,3 +1,14 @@
+body {
+  font-family: "Roboto", Arial, sans-serif;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 2.5rem;
+}
+
+h1 {
+  text-align: center;
+}
+
 .permalink {
   font-size: 10px;
   margin-left: 10px;
