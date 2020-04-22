@@ -10,7 +10,8 @@ const OUT_DIR = 'dist'
 
 
 const md = () => new Remarkable({
-  html: true
+  html: true,
+  typographer: true,
 });
 
 
