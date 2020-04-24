@@ -55,6 +55,8 @@ faqOutput = faqOutput.replace('<!-- contrib -->', md().render(contribMarkdown))
 
 faqOutput += '\n\n<link rel="stylesheet" href="./style.css">'
 
+faqOutput = require('./plugins/wot')(faqOutput)
+
 // Create dist directory if it doesn't exist & save output to it
 if (!fs.existsSync(OUT_DIR)) {
   fs.mkdirSync(OUT_DIR);
