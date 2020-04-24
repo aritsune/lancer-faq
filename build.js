@@ -1,4 +1,7 @@
 const fs = require('fs');
+const ncp = require('ncp').ncp;
+
+
 const path = require('path');
 
 const { Remarkable } = require('remarkable');
@@ -47,5 +50,7 @@ if (!fs.existsSync(OUT_DIR)) {
 
 
 fs.copyFileSync('./src/style.css', path.join('.', OUT_DIR, 'style.css'))
+ncp('./src/assets', './dist/assets')
+
 const faqOutputPath = path.join('.', OUT_DIR, 'index.html');
 fs.writeFileSync(faqOutputPath, faqOutput, 'utf-8');

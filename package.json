@@ -19,6 +19,7 @@
   "homepage": "https://github.com/aritsune/lancer-faq#readme",
   "dependencies": {
     "markdown-toc": "^1.2.0",
+    "ncp": "^2.0.0",
     "remarkable": "^2.0.0"
   }
 }

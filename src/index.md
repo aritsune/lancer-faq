@@ -1,5 +1,7 @@
 # LANCER Rules FAQ & Errata
 
+<center>[![GitHub](../src/assets/github.png) Contribute on GitHub](https://github.com/aritsune/lancer-faq)</center>
+
 <!-- toc -->
 
 ## Page 55, Get Focused
@@ -17,8 +19,6 @@ Invisibility in Lancer is fairly straightforward. All incoming attacks, whether 
 ## Page 67, Harm
 ### Do half-damage effects stack? (e.g. Heavy Gunner, HyperDense Armor)
 They do not stack. "Dealing half damage" is a binary state, similar to Resistance.
-
-[^x]: [Per Tom on Discord](https://discordapp.com/channels/426286410496999425/426288556902842368/700816834689105970)
 
 ### Does the Saladin's Paracausal Mod bypass half-damage effects?
 It does not -- the halved damage from effects such as Heavy Gunner is not a *reduction* like Resistance is; it happens "before" step 1 of damage calculations.
@@ -108,5 +108,3 @@ The Blinkshield can't be crossed with any effect, and that includes another Blin
 ## Page 246, HA Sherman
 ### Can I repeatedly Stabilize outside of combat to add charges to the ZF4 Solidcore?
 No. Strictly speaking, combat actions such as Stabilize don't really "exist" outside of combat. When resting or during downtime the Stabilize action isn't something you take, you have other options for repairing your mech available to you, the same way that if you were looking to use your mech to shoot at a guard tower during a narrative scene you wouldn't declare "I use a Skirmish," you would simply state your intent to shoot the tower.
-
-[^pg67]: LANCER First Edition Core Rulebook, pg. 67
