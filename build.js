@@ -8,7 +8,6 @@ const SRC_DIR = 'src'
 const OUT_DIR = 'dist'
 
 
-
 const md = () => new Remarkable({
   html: true,
   typographer: true,
@@ -18,7 +17,9 @@ const md = () => new Remarkable({
 
 // FAQ
 const faqInput = fs.readFileSync('./src/index.md', 'utf-8')
-const faqTocMarkdown = md().use(toc.plugin()).render(faqInput)
+const faqTocMarkdown = md().use(toc.plugin({
+  maxdepth: 2
+})).render(faqInput)
 
 
 
