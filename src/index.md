@@ -1,6 +1,6 @@
 # LANCER Rules FAQ & Errata
 
-<center>[![GitHub](../src/assets/github.png) Contribute on GitHub](https://github.com/aritsune/lancer-faq)</center>
+<center>[![GitHub](assets/github.png) Contribute on GitHub](https://github.com/aritsune/lancer-faq)</center>
 
 <!-- toc -->
 
@@ -99,7 +99,7 @@ No, once a weapon has been used in a way that requires reloading in needs to be 
 Yes.
 
 ### Is the Gravity Gun affected by Invisibility?
-No. The Gravity Gun's use is, technically speaking, an attack. If your mech is unable to make attacks for some reason, such as being Jammed, it cannot use the Gravity Gun. But the actual effect of the Gravity Gun when you attack with it is one that has no associated to hit roll of any sort, functioning instead more like a grenade or mine, and so there's no way for it to "miss" like a regular attack would, even if the target is Invisible. This means that the Gravity Gun also does not benefit from anything that would trigger on hit or on crit since it can do neither of those things.
+No. The Gravity Gun's use is, technically speaking, an attack. If your mech is unable to make attacks for some reason, such as being Jammed, it cannot use the Gravity Gun. But the actual effect of the Gravity Gun when you attack with it is one that has no associated to hit roll of any sort, functioning instead more like a grenade or mine, and so there's no way for it to "miss" like a regular attack would, even if the target is Invisible. This also means that the Gravity Gun does not benefit from anything that would trigger on hit or on crit since it can do neither of those things.
 
 ## Page 241, HA Napoleon
 ### If I create a Blinkshield, can I create another Blinkshield within it before the first one expires?
