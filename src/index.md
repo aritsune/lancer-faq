@@ -62,7 +62,7 @@ SEKHMET Protocol doesn't hand over control of your mech to the GM as if your NHP
 
 ## Page 132, IPS-N Drake
 ### Does the Drake's Guardian trait mean it provides soft cover against attacks that would be obstructed by it even if an ally isn't adjacent to it, as per the guidelines for Checking For Cover on page 66?
-No. Any mech with the Guardian trait (and the Barbarossa's Colossus trait) only provide cover to allies who are adjacent to them, they do not act as actual pieces of environmental hard cover for the purpose of the Checking For Cover guidelines.
+No. Any mech with the Guardian trait (and the Barbarossa's Colossus trait) only provide cover to allies who are adjacent to them, they do not act as actual pieces of environmental hard cover for the purpose of the Checking For Cover guidelines.<wot:441336855951048725/684190967133110369>
 
 ## Page 144, IPS-N Raleigh
 ### If at the end of my turn I reload my weapons due to the Full Metal Jacket trait, can I then use that reload as a trigger to fire the M35 Mjolnir as a free action even though the FMJ reload is at the end of my turn?
