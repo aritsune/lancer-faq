@@ -1,6 +1,6 @@
 const fs = require('fs');
 const ncp = require('ncp').ncp;
-
+const crypto = require('crypto');
 
 const path = require('path');
 
@@ -18,10 +18,18 @@ const md = () => new Remarkable({
 });
 
 
+function slugify(text) {
+  const hash = crypto.createHmac('sha512', 'abc')
+  hash.update(text)
+  return hash.digest('hex').substr(0, 6)
+}
+
+
 // FAQ
 const faqInput = fs.readFileSync('./src/index.md', 'utf-8')
 const faqTocMarkdown = md().use(toc.plugin({
-  maxdepth: 2
+  maxdepth: 2,
+  slugify: slugify
 })).render(faqInput)
 
 
@@ -30,11 +38,11 @@ let faqOutput = md()
   .use(function (remarkable) {
     remarkable.renderer.rules.heading_open = function (tokens, idx) {
       if (idx === 0) return '<h' + tokens[idx].hLevel + '>';
-      return '<h' + tokens[idx].hLevel + ' id=' + toc.slugify(tokens[idx + 1].content) + '>'
+      return '<h' + tokens[idx].hLevel + ' id=' + slugify(tokens[idx + 1].content) + '>'
     };
     remarkable.renderer.rules.heading_close = function (tokens, idx) {
       if (idx === 2) return '</h' + tokens[idx].hLevel + '>';
-      return '<span class="permalink">[<a href="#' + toc.slugify(tokens[idx - 1].content) + '">link</a>]</span>' + '</h' + tokens[idx].hLevel + '>';
+      return '<span class="permalink">[<a href="#' + slugify(tokens[idx - 1].content) + '">link</a>]</span>' + '</h' + tokens[idx].hLevel + '>';
     };
   })
   .render(
