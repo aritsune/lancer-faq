@@ -3,6 +3,7 @@ body {
   width: 80%;
   margin: 0 auto;
   margin-top: 2.5rem;
+  margin-bottom: 100vh;
 }
 
 h1 {
@@ -12,4 +13,14 @@ h1 {
 .permalink {
   font-size: 10px;
   margin-left: 10px;
+}
+
+body::after {
+  content: "This space intentionally left blank.";
+  color: rgba(0,0,0,0.5);
+  font-style: italic;
+  margin-top: 50px;
+  text-align: center;
+  width: 100%;
+  display: block;
 }

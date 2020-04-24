@@ -2,6 +2,8 @@
 
 <center>[![GitHub](assets/github.png) Contribute on GitHub](https://github.com/aritsune/lancer-faq)</center>
 
+<!-- contrib -->
+
 <!-- toc -->
 
 ## Page 55, Get Focused

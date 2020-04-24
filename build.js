@@ -49,6 +49,10 @@ let faqOutput = md()
     faqInput.replace('<!-- toc -->', faqTocMarkdown.content)
   )
 
+const contribMarkdown = '## Contributors\n' + fs.readFileSync('./src/contributors.txt', 'utf-8').split('\n').map(x => `* ${x}`).join('\n') + '\n## Table of Contents'
+
+faqOutput = faqOutput.replace('<!-- contrib -->', md().render(contribMarkdown))
+
 faqOutput += '\n\n<link rel="stylesheet" href="./style.css">'
 
 // Create dist directory if it doesn't exist & save output to it
