@@ -1,4 +1,4 @@
-# LANCER Frequently Asked Questions
+# LANCER Rules FAQ & Errata
 
 <!-- toc -->
 
@@ -40,8 +40,8 @@ No.
 Yes.
 
 ## Page 102, Tactician
-### Do I get the Solar Tactician benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
-No, Solar Tactician doesn't care about relative mech size/height, only whether your position on the map is a higher elevation than the target you're shooting at.
+### Do I get the Solar Backdrop benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
+No, Solar Backdrop doesn't care about relative mech size/height, only whether your position on the map is a higher elevation than the target you're shooting at. Measure from your feet, not from your head.
 
 ## Page 105, Loading
 ### Can I reload weapons with the Loading tag that haven't been fired to trigger effects that apply when reloading weapons?
