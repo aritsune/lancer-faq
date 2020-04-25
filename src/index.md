@@ -109,8 +109,12 @@ No. The Gravity Gun's use is, technically speaking, an attack. If your mech is u
 
 ## Page 241, HA Napoleon
 ### If I create a Blinkshield, can I create another Blinkshield within it before the first one expires?
-The Blinkshield can't be crossed with any effect, and that includes another Blinkshield. If you attempt to create a Blinkshield within a Blinkshield and any part of the two shields overlap or intersect, you cannot do so as it would violate the clause that states that no effect can cross the Blinkshield.
+The Blinkshield can't be crossed with any effect, and that includes another Blinkshield. If you attempt to create a Blinkshield within a Blinkshield and any part of the two shields overlap or intersect, you cannot do so as it would violate the clause that states that no effect can cross the Blinkshield. 
 
 ## Page 246, HA Sherman
 ### Can I repeatedly Stabilize outside of combat to add charges to the ZF4 Solidcore?
 No. Strictly speaking, combat actions such as Stabilize don't really "exist" outside of combat. When resting or during downtime the Stabilize action isn't something you take, you have other options for repairing your mech available to you, the same way that if you were looking to use your mech to shoot at a guard tower during a narrative scene you wouldn't declare "I use a Skirmish," you would simply state your intent to shoot the tower.
+
+## Multi-license Interactions
+### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
+Yes.<wot:426288556902842368/703379534715682816>
