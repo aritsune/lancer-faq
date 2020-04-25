@@ -14,6 +14,10 @@ The latter. Get Focused cannot be used to improve the ranks of Triggers that it 
 ### If I choose to split up movement in a way that I move into an enemy's threat range, pause to attack them, and then continue my movement afterward, does that count as beginning a movement in their threat for the purpose of triggering Overwatch?
 Yes.
 
+## Page 64, Attacks
+### Can tech attacks crit? / What happens when a tech attack crits?
+Nothing. Only melee and ranged attacks can land a critical hit.
+
 ## Page 65, Invisibility
 ### Does Invisibility work against tech attacks? Do Reliable weapons deal their damage on a miss when the miss is caused by Invisibility? Are area-of-effect weapons affected by Invisibility?
 Invisibility in Lancer is fairly straightforward. All incoming attacks, whether they're ranged, melee, or tech, have a 50% chance to miss before the attack roll is made. This applies to area-of-effect attacks just as much as single target attacks. If an attack made against an Invisible target misses due to the 50% miss chance, that is a miss and it triggers any effects that may be activated on a miss, including Reliable damage.
