@@ -57,6 +57,8 @@ faqOutput += '\n\n<link rel="stylesheet" href="./style.css">'
 
 faqOutput = require('./plugins/wot')(faqOutput)
 
+const jsonOutput = require('./plugins/jsongen')(faqInput)
+
 // Create dist directory if it doesn't exist & save output to it
 if (!fs.existsSync(OUT_DIR)) {
   fs.mkdirSync(OUT_DIR);
@@ -68,3 +70,6 @@ ncp('./src/assets', './dist/assets')
 
 const faqOutputPath = path.join('.', OUT_DIR, 'index.html');
 fs.writeFileSync(faqOutputPath, faqOutput, 'utf-8');
+
+const jsonPath = path.join('.', OUT_DIR, 'faq.json');
+fs.writeFileSync(jsonPath, JSON.stringify(jsonOutput, null, 4), 'utf-8');
