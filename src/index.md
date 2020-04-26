@@ -6,6 +6,10 @@
 
 <!-- toc -->
 
+## Page 34, Statistics
+### I have a weapon with higher Range than my Sensors - how does that work?
+Your Sensor range is completely irrelevant when it comes to making ranged attacks. They do not represent what your mech can see - they are used for determining range for Searching for Hidden enemies, tech attacks, and other things such as Drone deployment. 
+
 ## Page 55, Get Focused
 ### Can I use the Get Focused downtime action to improve Triggers such as Assault or Apply Fists to Faces, or can it only be used to improve the new Triggers created using Get Focused?
 The latter. Get Focused cannot be used to improve the ranks of Triggers that it was not used to create.
