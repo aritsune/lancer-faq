@@ -61,6 +61,10 @@ No, a Loading weapon that hasn't been fully expended cannot be reloaded until it
 ### The Ordnance tag reads "This weapon can only be fired before the user moves or takes any other actions on their turn." Does this mean you cannot use Ordnance weapons outside of your turn, such as with Heavy Gunner?
 This is a slight misprint. Ordnance should read " This weapon can only be fired before the user moves or takes any other actions on a turn." Ordnance weapons can be used outside of your turn with various reactions (except for Overwatch which is explicitly disallowed) as long as you abide by the tag's other restrictions.
 
+## Page 105, Smart
+### Do I add my Tech Attack bonus to attacks made with Smart weapons?
+No. All Smart changes is the stat you *target* -- E-Defense rather than Evasion. You still use your Grit bonus when rolling.
+
 ## Page 130, IPS-N Blackbeard
 ### When I critically hit with a Chain Axe, does the Shredded effect apply before or after the weapon's damage?
 You can choose to apply on hit or on crit effects in whatever order you choose, including before damage from the attack in question. So when you critically hit with a Chain Axe you can choose to apply the Shredded condition to the target before dealing damage, preventing them from benefitting from armor or resistance.
