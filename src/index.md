@@ -36,6 +36,9 @@ It does not -- the halved damage from effects such as Heavy Gunner is not a *red
 ### How does Resistance to Burn work? Does it halve the end of turn damage *twice*?
 It does not. Resistance to Burn only affects the initial damage, and not the end-of-turn ticks. If you take 4 Burn and resist it, you will take 2 Burn damage and mark 2 Burn stacks, but you will take 2 Burn damage if you fail the EOT check.
 
+## Page 68, Immunity
+### Do "can't be reduced" effects (such as Paracausal Mod) override Immunity?
+No. Immunity is not a reduction.
 
 ## Page 70, Skirmish
 ### When Skirmishing (or Barraging) in a way that grants bonus attacks with auxiliary weapons, such as with a Main/Aux mount, can I choose to attack with the bonus auxiliary attack first before the attack with the primary weapon?
