@@ -48,6 +48,10 @@ Yes. When you make an attack with a Skirmish or Barrage that grants a bonus auxi
 ### Can I Barrage using the same weapon twice?
 No.
 
+## Page 94, Executioner
+### When I miss with an attack and use No Escape, does that trigger Reliable? What about having to pay costs such as heat again? Are weapons with the Loading tag expended on the miss?
+Missing with an attack that triggers No Escape (or Exemplar's Valiant Aid) will trigger Reliable, but do not incur additional costs or require reloading to make the rerolled attack.<wot:426288556902842368/708389666981806201>
+
 ## Page 97, Hunter
 ### Can I use Disdainful Blade to throw the same auxiliary melee weapon I used to hit a character with and trigger the ability in the first place?
 Yes.
@@ -68,12 +72,20 @@ This is a slight misprint. Ordnance should read " This weapon can only be fired 
 ### Do I add my Tech Attack bonus to attacks made with Smart weapons?
 No. All Smart changes is the stat you *target* -- E-Defense rather than Evasion. You still use your Grit bonus when rolling.
 
+## Page 121, Stable Structure
+### Errata #1
+Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
+
 ## Page 130, IPS-N Blackbeard
 ### When I critically hit with a Chain Axe, does the Shredded effect apply before or after the weapon's damage?
 You can choose to apply on hit or on crit effects in whatever order you choose, including before damage from the attack in question. So when you critically hit with a Chain Axe you can choose to apply the Shredded condition to the target before dealing damage, preventing them from benefitting from armor or resistance.
 
 ### When I activate the SEKHMET Protocol, do I continue to take turns as normal or do I hand over control to the GM?
 SEKHMET Protocol doesn't hand over control of your mech to the GM as if your NHP was cascading. Narratively SEKHMET may be in "control" of things but you, the player, are still playing, it's just you have a series of restrictions and conditions on what actions and maneuvers you can try to take. You still control the mech and can make decisions within those restrictions as you like.
+
+## Page 131, Reinforced Cabling
+### Does the Blackbeard's Reinforced Cabling count as a flight or propulsion system for the purposes of zero-gravity maneuvering?
+No, it doesn't. Depending on the sort of battlefield environment you're fighting in the GM may decide to allow it contextually, but as a general rule the Reinforced Cabling system won't let you maneuver freely in zero-gravity simply on its own.<wot:426288556902842368/710261251430809670>
 
 ## Page 132, IPS-N Drake
 ### Does the Drake's Guardian trait mean it provides soft cover against attacks that would be obstructed by it even if an ally isn't adjacent to it, as per the guidelines for Checking For Cover on page 66?
