@@ -80,6 +80,9 @@ Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or fo
 ### When I critically hit with a Chain Axe, does the Shredded effect apply before or after the weapon's damage?
 You can choose to apply on hit or on crit effects in whatever order you choose, including before damage from the attack in question. So when you critically hit with a Chain Axe you can choose to apply the Shredded condition to the target before dealing damage, preventing them from benefitting from armor or resistance.
 
+### When a character with Synthetic Muscle Netting is engaged in a grapple with an opponent of equal size, they count as one size larger (i.e. a size 1 mech with SMN grappling another size 1 mech will count as size 2). Does this mean that the character with SMN equipped counts as size 2 for purposes of being rammed, such as if their opponent wanted to ram them to break the grapple?
+No, Synthetic Muscle Netting doesn't make you count as a bigger size for the purpose of being rammed, only for the purposes of ramming other targets.<wot:426288556902842368/712046292934590474>
+
 ### When I activate the SEKHMET Protocol, do I continue to take turns as normal or do I hand over control to the GM?
 SEKHMET Protocol doesn't hand over control of your mech to the GM as if your NHP was cascading. Narratively SEKHMET may be in "control" of things but you, the player, are still playing, it's just you have a series of restrictions and conditions on what actions and maneuvers you can try to take. You still control the mech and can make decisions within those restrictions as you like.
 
