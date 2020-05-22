@@ -18,6 +18,10 @@ The latter. Get Focused cannot be used to improve the ranks of Triggers that it 
 ### If I choose to split up movement in a way that I move into an enemy's threat range, pause to attack them, and then continue my movement afterward, does that count as beginning a movement in their threat for the purpose of triggering Overwatch?
 Yes.
 
+## Page 62, Engagement
+### When I lose my unused movement from becoming engaged, do I lose ALL my movement, even the ones I didn't use ?
+No, if you did part of a standard move to get into engagement, you lose the rest of it, but you can still boost if you didn't boost already to get out of engagement. <wot:426288556902842368/713498072336040008>
+
 ## Page 64, Attacks
 ### Can tech attacks crit? / What happens when a tech attack crits?
 Nothing. Only melee and ranged attacks can land a critical hit.
