@@ -20,7 +20,7 @@ Yes.
 
 ## Page 62, Engagement
 ### When I lose my unused movement from becoming engaged, do I lose ALL my movement, even the ones I didn't use ?
-No, if you did part of a standard move to get into engagement, you lose the rest of it, but you can still boost if you didn't boost already to get out of engagement. [Word of Tom](https://discord.com/channels/426286410496999425/426288556902842368/713498072336040008)
+No, if you did part of a standard move to get into engagement, you lose the rest of it, but you can still boost if you didn't boost already to get out of engagement. <wot:426288556902842368/713498072336040008>
 
 ## Page 64, Attacks
 ### Can tech attacks crit? / What happens when a tech attack crits?
