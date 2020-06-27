@@ -56,6 +56,10 @@ No.
 ### When I miss with an attack and use No Escape, does that trigger Reliable? What about having to pay costs such as heat again? Are weapons with the Loading tag expended on the miss?
 Missing with an attack that triggers No Escape (or Exemplar's Valiant Aid) will trigger Reliable, but do not incur additional costs or require reloading to make the rerolled attack.<wot:426288556902842368/708389666981806201>
 
+## Page 96, Hacker
+### Why does Last Argument of Kings have a clause saying what happens when you overheat a target with it?
+Despite the fact that Last Argument of Kings doesn't deal any Heat by default, there are some effects such as Hacker's Snow_Crash or Nuclear Cavalier's Aggressive Heat Bleed that could result in it dealing Heat. This clause is here to prevent you from losing out on Burn if you so happen to overheat a target with those extra Heat effects.
+
 ## Page 97, Hunter
 ### Can I use Disdainful Blade to throw the same auxiliary melee weapon I used to hit a character with and trigger the ability in the first place?
 Yes.
