@@ -40,6 +40,9 @@ It does not -- the halved damage from effects such as Heavy Gunner is not a *red
 ### How does Resistance to Burn work? Does it halve the end of turn damage *twice*?
 It does not. Resistance to Burn only affects the initial damage, and not the end-of-turn ticks. If you take 4 Burn and resist it, you will take 2 Burn damage and mark 2 Burn stacks, but you will take 2 Burn damage if you fail the EOT check.
 
+### If a character is hit by an attack and the damage is reduced to 0, such as by armor or a system like the Drake's Aegis Shield Generator, does that still count as "taking damage" for the purpose of triggers such as the Genghis' Auto-Cooler?
+Yes, an instance of damage that is reduced to 0 damage such as by armor still counts as taking damage for those purposes. Immunity to damage overrides this as it specifically notes on page 68 under the Immunity section. <wot:426288556902842368/718463769826820143>
+
 ## Page 68, Immunity
 ### Do "can't be reduced" effects (such as Paracausal Mod) override Immunity?
 No. Immunity is not a reduction.
@@ -91,12 +94,11 @@ You can choose to apply on hit or on crit effects in whatever order you choose, 
 ### When a character with Synthetic Muscle Netting is engaged in a grapple with an opponent of equal size, they count as one size larger (i.e. a size 1 mech with SMN grappling another size 1 mech will count as size 2). Does this mean that the character with SMN equipped counts as size 2 for purposes of being rammed, such as if their opponent wanted to ram them to break the grapple?
 No, Synthetic Muscle Netting doesn't make you count as a bigger size for the purpose of being rammed, only for the purposes of ramming other targets.<wot:426288556902842368/712046292934590474>
 
-### When I activate the SEKHMET Protocol, do I continue to take turns as normal or do I hand over control to the GM?
-SEKHMET Protocol doesn't hand over control of your mech to the GM as if your NHP was cascading. Narratively SEKHMET may be in "control" of things but you, the player, are still playing, it's just you have a series of restrictions and conditions on what actions and maneuvers you can try to take. You still control the mech and can make decisions within those restrictions as you like.
-
-## Page 131, Reinforced Cabling
 ### Does the Blackbeard's Reinforced Cabling count as a flight or propulsion system for the purposes of zero-gravity maneuvering?
 No, it doesn't. Depending on the sort of battlefield environment you're fighting in the GM may decide to allow it contextually, but as a general rule the Reinforced Cabling system won't let you maneuver freely in zero-gravity simply on its own.<wot:426288556902842368/710261251430809670>
+
+### When I activate the SEKHMET Protocol, do I continue to take turns as normal or do I hand over control to the GM?
+SEKHMET Protocol doesn't hand over control of your mech to the GM as if your NHP was cascading. Narratively SEKHMET may be in "control" of things but you, the player, are still playing, it's just you have a series of restrictions and conditions on what actions and maneuvers you can try to take. You still control the mech and can make decisions within those restrictions as you like.
 
 ## Page 132, IPS-N Drake
 ### Does the Drake's Guardian trait mean it provides soft cover against attacks that would be obstructed by it even if an ally isn't adjacent to it, as per the guidelines for Checking For Cover on page 66?
@@ -109,6 +111,14 @@ Yes.
 ## Page 148, IPS-N Tortuga
 ### If I use Throughbolt Rounds on a weapon that has a Burst range/AoE type, such as the Bristlecrown Flechette Launcher, does the Burst retain the size it would have if measured from the mech or does it measure its size from the endpoint of the Throughbolt Round's line?
 The latter. Bursts always measure their size from the targeted point. If a Burst is centered on a mech then you use that as the point of origin, but if launched away from the mech such as with Throughbolt Rounds the Burst will use the end of the line as its center point instead.
+
+## Page 158, SSC Core Bonuses
+### Does the Neurolink Targeting core bonus give +3 range to Integrated ranged weapons such as the Raleigh's M35 Mjolnir, as those are listed as being unable to be modified?
+No, Neurolink Targeting doesn't apply its effect to Integrated weapons.
+
+## Page 160, SSC Black Witch
+### Errata #2
+The Magnetic Cannon's effect should read "On Attack" instead of "On Hit"
 
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
@@ -131,8 +141,15 @@ No.
 GUN: GUN
 
 ## Page 226, HA Barbarossa
+### If I use a system like the Flak Launcher which states targets "can no longer fly" in a zero-gravity environment where everyone is assumed to be flying at all times, does that prevent them from moving at all?
+No.
+
 ### If I fire the Siege Cannon in Siege Mode, can I switch to Direct Fire mode and continue attacking without reloading it first since only Siege Mode has the Loading tag?
 No, once a weapon has been used in a way that requires reloading in needs to be reloaded before it can be attacked with again in any mode or configuration it may have.
+
+## Page 230, HA Genghis
+### When the Plasma Thrower creates flames in free spaces, to characters take 1d6 damage for each space of flames they're pushed into, or does the 1d6 damage happen only once per round?
+The 1d6 damage from the flames only happens once per round. <wot:426288556902842368/718463769826820143>
 
 ## Page 234, HA Iskander
 ### When the Iskander uses its Mine Deployers trait, do these additional deployed mines also consume charges from the system being used?
