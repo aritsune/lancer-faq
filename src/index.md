@@ -87,6 +87,10 @@ No. All Smart changes is the stat you *target* -- E-Defense rather than Evasion.
 ### Errata #1
 Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
 
+## Page 120, Pattern-A Smoke Charges, Pattern-B HEX Charges
+### What kind of action is it to use the Pattern-A Smoke Charges and the Pattern-B HEX Charges? No action is listed.
+By default, systems with the Grenade tag or the Mine tag take a quick action to use, which can be found in their tag descriptions on page 106. This applies to all Grenades and Mines, unless the specific system says otherwise.
+
 ## Page 130, IPS-N Blackbeard
 ### When I critically hit with a Chain Axe, does the Shredded effect apply before or after the weapon's damage?
 You can choose to apply on hit or on crit effects in whatever order you choose, including before damage from the attack in question. So when you critically hit with a Chain Axe you can choose to apply the Shredded condition to the target before dealing damage, preventing them from benefitting from armor or resistance.
