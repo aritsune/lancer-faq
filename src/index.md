@@ -169,3 +169,11 @@ No. Strictly speaking, combat actions such as Stabilize don't really "exist" out
 ## Multi-license Interactions
 ### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
 Yes.<wot:426288556902842368/703379534715682816>
+
+## Page 288, Archer NPC
+### The Archer's Covering Fire optional system doesn't list a duration. How long does it last?
+The area created by Covering Fire, and the ability for the Archer to use the associated Got Your Back reaction, should last until the end of the Archer's next turn after it uses this ability.
+
+## Page 315 Sentinel NPC
+### The Sentinel's Rapid Response optional system is formatted differently from the Archer's version. Is this intentional?
+No, the two should be identical. Use the Archer's version for both.
