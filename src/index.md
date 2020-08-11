@@ -55,6 +55,11 @@ Yes. When you make an attack with a Skirmish or Barrage that grants a bonus auxi
 ### Can I Barrage using the same weapon twice?
 No.
 
+## Page 81, Overheating Table
+### Errata #4
+The 2 Stress remaining entry under Meltdown should read "A reactor meltdown can be prevented by retrying the ENGINEERING check as a full action."
+<wot:441336855951048725/664175573966520340>
+
 ## Page 94, Executioner
 ### When I miss with an attack and use No Escape, does that trigger Reliable? What about having to pay costs such as heat again? Are weapons with the Loading tag expended on the miss?
 Missing with an attack that triggers No Escape (or Exemplar's Valiant Aid) will trigger Reliable, but do not incur additional costs or require reloading to make the rerolled attack.<wot:426288556902842368/708389666981806201>
