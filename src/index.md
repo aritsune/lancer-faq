@@ -55,6 +55,11 @@ Yes. When you make an attack with a Skirmish or Barrage that grants a bonus auxi
 ### Can I Barrage using the same weapon twice?
 No.
 
+## Page 81, Overheating Table
+### Errata #4
+The 2 Stress remaining entry under Meltdown should read "A reactor meltdown can be prevented by retrying the ENGINEERING check as a full action."
+<wot:441336855951048725/664175573966520340>
+
 ## Page 94, Executioner
 ### When I miss with an attack and use No Escape, does that trigger Reliable? What about having to pay costs such as heat again? Are weapons with the Loading tag expended on the miss?
 Missing with an attack that triggers No Escape (or Exemplar's Valiant Aid) will trigger Reliable, but do not incur additional costs or require reloading to make the rerolled attack.<wot:426288556902842368/708389666981806201>
@@ -86,6 +91,10 @@ No. All Smart changes is the stat you *target* -- E-Defense rather than Evasion.
 ## Page 121, Stable Structure
 ### Errata #1
 Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
+
+## Page 120, Pattern-A Smoke Charges, Pattern-B HEX Charges
+### What kind of action is it to use the Pattern-A Smoke Charges and the Pattern-B HEX Charges? No action is listed.
+By default, systems with the Grenade tag or the Mine tag take a quick action to use, which can be found in their tag descriptions on page 106. This applies to all Grenades and Mines, unless the specific system says otherwise.
 
 ## Page 130, IPS-N Blackbeard
 ### When I critically hit with a Chain Axe, does the Shredded effect apply before or after the weapon's damage?
