@@ -72,6 +72,10 @@ Despite the fact that Last Argument of Kings doesn't deal any Heat by default, t
 ### Can I use Disdainful Blade to throw the same auxiliary melee weapon I used to hit a character with and trigger the ability in the first place?
 Yes.
 
+## Page 100, Siege Specialist
+### Can I benefit from Siege Specialist 2's movement if the Cannon I'm using to attack has the Ordnance tag?
+Yes.<wot:426288556902842368/753974191220457543>
+
 ## Page 102, Tactician
 ### Do I get the Solar Backdrop benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
 No, Solar Backdrop doesn't care about relative mech size/height, only whether your position on the map is a higher elevation than the target you're shooting at. Measure from your feet, not from your head.
