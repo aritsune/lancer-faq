@@ -82,7 +82,7 @@ No, a Loading weapon that hasn't been fully expended cannot be reloaded until it
 
 ## Page 105, Ordnance
 ### The Ordnance tag reads "This weapon can only be fired before the user moves or takes any other actions on their turn." Does this mean you cannot use Ordnance weapons outside of your turn, such as with Heavy Gunner?
-This is a slight misprint. Ordnance should read " This weapon can only be fired before the user moves or takes any other actions on a turn." Ordnance weapons can be used outside of your turn with various reactions (except for Overwatch which is explicitly disallowed) as long as you abide by the tag's other restrictions.
+This is a slight misprint. Ordnance should read "This weapon can only be fired before the user moves or takes any other actions on a turn." Ordnance weapons can be used outside of your turn with various reactions (except for Overwatch which is explicitly disallowed) as long as you abide by the tag's other restrictions.
 
 ## Page 105, Smart
 ### Do I add my Tech Attack bonus to attacks made with Smart weapons?
@@ -128,6 +128,10 @@ No, Neurolink Targeting doesn't apply its effect to Integrated weapons.
 ## Page 160, SSC Black Witch
 ### Errata #2
 The Magnetic Cannon's effect should read "On Attack" instead of "On Hit"
+
+## Page 168, SSC Dusk Wing
+### Does Neurospike's Shrike Code apply to each attack action, or each attack roll?
+The target takes 2 heat for every attack roll that they make.<wot:426288556902842368/738783942014009417>
 
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
