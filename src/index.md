@@ -123,7 +123,7 @@ The latter. Bursts always measure their size from the targeted point. If a Burst
 
 ## Page 158, SSC Core Bonuses
 ### Does the Neurolink Targeting core bonus give +3 range to Integrated ranged weapons such as the Raleigh's M35 Mjolnir, as those are listed as being unable to be modified?
-No, Neurolink Targeting doesn't apply its effect to Integrated weapons.
+Yes, Neurolink Targeting does apply its effect to Integrated weapons. <wot:426288556902842368/773636612235591680>
 
 ## Page 160, SSC Black Witch
 ### Errata #2
