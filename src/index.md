@@ -135,6 +135,9 @@ No. This is treated as a single attack, just one with a custom area-of-effect th
 
 (This only applies to the teleportation action. Hostile characters can be affected by multiple Hall of Mirrors holograms if they move through or move adjacent to multiple holograms.)
 
+### Does Neurospike's Shrike Code apply to each attack action, or each attack roll?
+The target takes 2 heat for every attack roll that they make.<wot:426288556902842368/738783942014009417>
+
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
 No. The Pinaka Missiles are still treated as a single attack, just one with a custome area-of-effect that consists of two Blast areas. Even if you place both Blasts in a way that they could hit a single target without overlapping, you still only roll to hit that target once.
