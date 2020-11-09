@@ -72,6 +72,14 @@ Despite the fact that Last Argument of Kings doesn't deal any Heat by default, t
 ### Can I use Disdainful Blade to throw the same auxiliary melee weapon I used to hit a character with and trigger the ability in the first place?
 Yes.
 
+## Page 99, Leader
+### Field Commander says you can expend a Leadership Die to gain +1 Accuracy on any action that directly follows from that order. What if that action involves more than one roll, such as Barraging?
+Every roll in the action gets the additional Accuracy. This means that all the attack rolls in a Barrage that directly follows the given order gets Accuracy if you spend a Leadership die in that way. <wot:426288556902842368/775399535811231745> 
+
+## Page 100, Siege Specialist
+### Can you use the effect of Impact when attacking with a Cannon with Ordnance? Would the push from Impact trigger the clause in Ordnance that says you can't attack with an Ordnance weapon if you had already moved that turn?
+You are allowed to use Impact with Cannons that have the Ordnance tag and it will not interfere with you firing the weapon. <wot:426288556902842368/753974191220457543> 
+
 ## Page 102, Tactician
 ### Do I get the Solar Backdrop benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
 No, Solar Backdrop doesn't care about relative mech size/height, only whether your position on the map is a higher elevation than the target you're shooting at. Measure from your feet, not from your head.
@@ -113,6 +121,10 @@ SEKHMET Protocol doesn't hand over control of your mech to the GM as if your NHP
 ### Does the Drake's Guardian trait mean it provides soft cover against attacks that would be obstructed by it even if an ally isn't adjacent to it, as per the guidelines for Checking For Cover on page 66?
 No. Any mech with the Guardian trait (and the Barbarossa's Colossus trait) only provide cover to allies who are adjacent to them, they do not act as actual pieces of environmental hard cover for the purpose of the Checking For Cover guidelines.<wot:441336855951048725/684190967133110369>
 
+## Page 140, IPS-N Nelson
+### How does the Skirmisher trait interact with weapons that make multiple attack rolls, such as weapons with an area-of-effect?
+The Nelson's Skirmisher trait triggers once per overall attack with a weapon, regardless of how many attack rolls it may have, so an attack with an area-of-effect weapon will still trigger the trait and grant you movement only once. It can however, still trigger multiple times on the same Skirmish or Barrage, such as if you Skirmish with a Main weapon and an Auxiliary weapon in the Nelson's Main/Aux mount.
+
 ## Page 144, IPS-N Raleigh
 ### If at the end of my turn I reload my weapons due to the Full Metal Jacket trait, can I then use that reload as a trigger to fire the M35 Mjolnir as a free action even though the FMJ reload is at the end of my turn?
 Yes.
@@ -135,12 +147,12 @@ No. This is treated as a single effect, just one with a custom area-of-effect th
 
 (This only applies to the teleportation action. Hostile characters can be affected by multiple Hall of Mirrors holograms if they move through or move adjacent to multiple holograms.)
 
-### Does Neurospike's Shrike Code apply to each attack action, or each attack roll?
-The target takes 2 heat for every attack roll that they make.<wot:426288556902842368/738783942014009417>
+### Errata #6
+Shrike Code should read "they first take 2 heat whenever they make an attack roll." as opposed to triggering whenever they attack, meaning that attacks against multiple targets will trigger the penalty multiple times.<wot:426288556902842368/738783942014009417>
 
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
-No. The Pinaka Missiles are still treated as a single attack, just one with a custome area-of-effect that consists of two Blast areas. Even if you place both Blasts in a way that they could hit a single target without overlapping, you still only roll to hit that target once.
+No. The Pinaka Missiles are still treated as a single attack, just one with a custom area-of-effect that consists of two Blast areas. Even if you place both Blasts in a way that they could hit a single target without overlapping, you still only roll to hit that target once.
 
 ## Page 192, HORUS Balor
 ### If the Balor's Regeneration trait is disabled from taking stress or structure damage, when it reactivates at the end of the next turn do you then also regenerate HP at the end of that turn as well?
