@@ -129,6 +129,12 @@ No, Neurolink Targeting doesn't apply its effect to Integrated weapons.
 ### Errata #2
 The Magnetic Cannon's effect should read "On Attack" instead of "On Hit"
 
+## Page 168, SSC Dusk Wing
+### If I position two Hall of Mirrors holograms to both hit the same target, then teleport to a hologram to detonate all of them at once, does this hit that target twice?
+No. This is treated as a single attack, just one with a custom area-of-effect that consists of two Blast areas. The target only takes 1d6 damage (or half, if they make their save). <wot:441336855951048725/722946911656607784>
+
+(This only applies to the teleportation action. Hostile characters can be affected by multiple Hall of Mirrors holograms if they move through or move adjacent to multiple holograms.)
+
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
 No. The Pinaka Missiles are still treated as a single attack, just one with a custome area-of-effect that consists of two Blast areas. Even if you place both Blasts in a way that they could hit a single target without overlapping, you still only roll to hit that target once.
@@ -174,6 +180,14 @@ The Blinkshield can't be crossed with any effect, and that includes another Blin
 ## Page 246, HA Sherman
 ### Can I repeatedly Stabilize outside of combat to add charges to the ZF4 Solidcore?
 No. Strictly speaking, combat actions such as Stabilize don't really "exist" outside of combat. When resting or during downtime the Stabilize action isn't something you take, you have other options for repairing your mech available to you, the same way that if you were looking to use your mech to shoot at a guard tower during a narrative scene you wouldn't declare "I use a Skirmish," you would simply state your intent to shoot the tower.
+
+## Long Rim Page 53, HORUS Lich
+### Errata 3
+Chronostutter's text currently reads "The character taking the action is pushed up to 3 spaces". 
+
+This should instead read *"the target of the action* is pushed up to 3 spaces". 
+
+<wot:426288556902842368/741749908448477281>
 
 ## Multi-license Interactions
 ### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
