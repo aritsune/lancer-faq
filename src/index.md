@@ -131,7 +131,7 @@ The Magnetic Cannon's effect should read "On Attack" instead of "On Hit"
 
 ## Page 168, SSC Dusk Wing
 ### If I position two Hall of Mirrors holograms to both hit the same target, then teleport to a hologram to detonate all of them at once, does this hit that target twice?
-No. This is treated as a single attack, just one with a custom area-of-effect that consists of two Blast areas. The target only takes 1d6 damage (or half, if they make their save). <wot:441336855951048725/722946911656607784>
+No. This is treated as a single effect, just one with a custom area-of-effect that consists of multiple burst 1 areas. The target only takes 1d6 damage (or half, if they make their save). <wot:441336855951048725/722946911656607784>
 
 (This only applies to the teleportation action. Hostile characters can be affected by multiple Hall of Mirrors holograms if they move through or move adjacent to multiple holograms.)
 
