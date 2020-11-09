@@ -123,7 +123,7 @@ The latter. Bursts always measure their size from the targeted point. If a Burst
 
 ## Page 158, SSC Core Bonuses
 ### Does the Neurolink Targeting core bonus give +3 range to Integrated ranged weapons such as the Raleigh's M35 Mjolnir, as those are listed as being unable to be modified?
-No, Neurolink Targeting doesn't apply its effect to Integrated weapons.
+Yes, Neurolink Targeting does apply its effect to Integrated weapons. <wot:426288556902842368/773636612235591680>
 
 ## Page 160, SSC Black Witch
 ### Errata #2
@@ -134,6 +134,9 @@ The Magnetic Cannon's effect should read "On Attack" instead of "On Hit"
 No. This is treated as a single attack, just one with a custom area-of-effect that consists of two Blast areas. The target only takes 1d6 damage (or half, if they make their save). <wot:441336855951048725/722946911656607784>
 
 (This only applies to the teleportation action. Hostile characters can be affected by multiple Hall of Mirrors holograms if they move through or move adjacent to multiple holograms.)
+
+### Does Neurospike's Shrike Code apply to each attack action, or each attack roll?
+The target takes 2 heat for every attack roll that they make.<wot:426288556902842368/738783942014009417>
 
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
