@@ -185,7 +185,7 @@ The Blinkshield can't be crossed with any effect, and that includes another Blin
 No. Strictly speaking, combat actions such as Stabilize don't really "exist" outside of combat. When resting or during downtime the Stabilize action isn't something you take, you have other options for repairing your mech available to you, the same way that if you were looking to use your mech to shoot at a guard tower during a narrative scene you wouldn't declare "I use a Skirmish," you would simply state your intent to shoot the tower.
 
 ## Long Rim Page 53, HORUS Lich
-### Errata 3
+### Errata #3
 Chronostutter's text currently reads "The character taking the action is pushed up to 3 spaces". 
 
 This should instead read *"the target of the action* is pushed up to 3 spaces". 
@@ -196,6 +196,7 @@ This should instead read *"the target of the action* is pushed up to 3 spaces".
 ### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
 Yes.<wot:426288556902842368/703379534715682816>
 
+## NPC Classes
 ## Page 288, Archer NPC
 ### The Archer's Covering Fire optional system doesn't list a duration. How long does it last?
 The area created by Covering Fire, and the ability for the Archer to use the associated Got Your Back reaction, should last until the end of the Archer's next turn after it uses this ability.
