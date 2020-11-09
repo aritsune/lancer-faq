@@ -192,6 +192,13 @@ This should instead read *"the target of the action* is pushed up to 3 spaces".
 
 <wot:426288556902842368/741749908448477281>
 
+## Long Rim Page 59, HA Sunzi
+### Errata #5
+The Warp Grenade effect of Blink Charges currently reads "choose any character within the affected area".
+This should instead read "choose any characters within the affected area" to make it clear that it can affect multiple targets.
+
+<wot:441336855951048725/727938103209361478>
+
 ## Multi-license Interactions
 ### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
 Yes.<wot:426288556902842368/703379534715682816>
