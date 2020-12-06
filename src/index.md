@@ -20,14 +20,22 @@ The text currently reads "These ranks can be in any combination – for example,
 
 ## Page 55, Get Focused
 ### Can I use the Get Focused downtime action to improve Triggers such as Assault or Apply Fists to Faces, or can it only be used to improve the new Triggers created using Get Focused?
-The latter. Get Focused cannot be used to improve the ranks of Triggers that it was not used to create.
+The latter. Get Focused cannot be used to improve the ranks of Triggers that it was not used to create. <wot:426288556902842368/686780898636595205>
+
+## Page 61, Types of Actions
+### Can I attack with the same weapon or mount multiple times in a turn?
+There is no rule specifically preventing you from using a weapon multiple times in the same turn, but the rule preventing you from taking the same action more than once per turn (such as Skirmish) and the fact that Barrage specifies two different weapons means that by default, you will not be able to attack with the same weapon more than once per turn. You cannot spend both of your default quick actions on Skirmish and Barrage cannot be used to pick the same weapon twice. 
+
+However, free actions and reactions are explicit exceptions to the "No Duplicate Actions" rule, and so if you can Skirmish or otherwise attack with a weapon as a free action or reaction, you can use a weapon you have already used this turn. For example, if you Skirmish with a Heavy Machine Gun, you cannot Skirmish again with your other remaining quick action, but if you can somehow Skirmish as a free action (such as via Overcharge or the Everest's Initiative trait), you could use the Heavy Machine Gun again.
+
+Additionally, if you have multiple copies of the same weapon, such as two Assault Rifles in different mounts, you can use both of them in a Barrage.
 
 ## Page 62, Splitting Up Movement
 ### If I choose to split up movement in a way that I move into an enemy's threat range, pause to attack them, and then continue my movement afterward, does that count as beginning a movement in their threat for the purpose of triggering Overwatch?
 Yes.
 
 ## Page 62, Engagement
-### When I lose my unused movement from becoming engaged, do I lose ALL my movement, even the ones I didn't use ?
+### When I lose my unused movement from becoming engaged, do I lose ALL my movement, even the ones I didn't use?
 No, if you did part of a standard move to get into engagement, you lose the rest of it, but you can still boost if you didn't boost already to get out of engagement. <wot:426288556902842368/713498072336040008>
 
 ## Page 63, Flight
