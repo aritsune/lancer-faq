@@ -196,6 +196,10 @@ Yes, the Autopod's Autonomous Assault reaction is considered an attack which aut
 ### Is there any way at all I can activate CASTIGATE THE ENEMIES OF THE GODHEAD without being physically present in the mech itself at the time of detonation? A subaltern with a copy of my neural pattern? A clone? A brick on the accelerator? My long lost twin sibling, who I don't like very much? A service animal? Anything?
 No.
 
+## Page 214, HORUS Minotaur
+### Can Metafold Maze affect characters slowed by Logic Bomb's effect
+Yes, Metafold Maze can be used after Logic Bomb to affect all enemies who failed their Systems save. <wot:426288556902842368/738946231015047239>
+
 ## Page 218, HORUS Pegasus
 ### What does ¿%:?EXTR!UDE GUN actually do?
 GUN: GUN
