@@ -222,6 +222,9 @@ Yes.
 ### Is the Gravity Gun affected by Invisibility?
 No. The Gravity Gun's use is, technically speaking, an attack. If your mech is unable to make attacks for some reason, such as being Jammed, it cannot use the Gravity Gun. But the actual effect of the Gravity Gun when you attack with it is one that has no associated to hit roll of any sort, functioning instead more like a grenade or mine, and so there's no way for it to "miss" like a regular attack would, even if the target is Invisible. This also means that the Gravity Gun does not benefit from anything that would trigger on hit or on crit since it can do neither of those things.
 
+### Can the Repulser Field set off mines that you have deployed this turn that have not armed yet?
+No, the Repulser Field will not cause mines that have not yet armed to detonate. <wot:426288556902842368/799788877354369057>
+
 ## Page 241, HA Napoleon
 ### If I create a Blinkshield, can I create another Blinkshield within it before the first one expires?
 The Blinkshield can't be crossed with any effect, and that includes another Blinkshield. If you attempt to create a Blinkshield within a Blinkshield and any part of the two shields overlap or intersect, you cannot do so as it would violate the clause that states that no effect can cross the Blinkshield. 
