@@ -39,7 +39,7 @@ Yes.
 No, if you did part of a standard move to get into engagement, you lose the rest of it, but you can still boost if you didn't boost already to get out of engagement. <wot:426288556902842368/713498072336040008>
 
 ## Page 63, Flight
-### Flight Errata
+### Flight Errata?
 The text currently reads "Flying characters that take structure damage or stress must succeed on an AGILITY save or begin falling." This should read "AGILITY check" instead of "AGILITY save".
 
 ## Page 64, Attacks
@@ -80,14 +80,14 @@ Yes. When you make an attack with a Skirmish or Barrage that grants a bonus auxi
 No.
 
 ## Page 81, Overheating Table
-### Overheating Table Errata
+### Overheating Table Errata?
 The 2 Stress remaining entry under Meltdown should read "A reactor meltdown can be prevented by retrying the ENGINEERING check as a full action." <wot:441336855951048725/664175573966520340>
 
 ### When overheating, how exactly does the spillover heat work?
 Any Heat in excess of your Heat Cap is applied to the next bar. For example, if your Heat Cap was 6, and you were at 5 Heat, taking 2 Heat would put you at 7/6, forcing you to take 1 Stress and make an overheating check, leaving you at 1 Heat out of 6 Heat Cap. Notably, you can safely stay at exactly your Heat Cap (in this case, taking 1 Heat and going to 6 Heat out of 6 Heat Cap will not cause you to overheat) and there is no way to overheat and roll over to exactly 0 Heat without some effect stating otherwise.
 
 ## Page 90, Ace
-### Ace Errata
+### Ace Errata?
 Taking the quick action to spin up your thrusters should grant you the Supersonic reaction if you end your turn flying until the end of your next turn. <wot:426288556902842368/732468073612967968>
 
 ## Page 94, Executioner
@@ -127,7 +127,7 @@ This is a slight misprint. Ordnance should read " This weapon can only be fired 
 No. All Smart changes is the stat you *target* -- E-Defense rather than Evasion. You still use your Grit bonus when rolling.
 
 ## Page 121, Stable Structure
-### Stabile Structure Errata
+### Stabile Structure Errata?
 Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
 
 ## Page 120, Pattern-A Smoke Charges, Pattern-B HEX Charges
@@ -172,7 +172,7 @@ The latter. Bursts always measure their size from the targeted point. If a Burst
 Yes, Neurolink Targeting does apply its effect to Integrated weapons as it is a blanket effect and not specifically applied to the weapon or mount. <wot:426288556902842368/773636612235591680>
 
 ## Page 160, SSC Black Witch
-### Magnetic Cannon Errata
+### Magnetic Cannon Errata?
 The Magnetic Cannon's effect should read "On Attack" instead of "On Hit"
 
 ## Page 168, SSC Dusk Wing
@@ -181,7 +181,7 @@ No. This is treated as a single effect, just one with a custom area-of-effect th
 
 (This only applies to the teleportation action. Hostile characters can be affected by multiple Hall of Mirrors holograms if they move through or move adjacent to multiple holograms.)
 
-### Neurospike Errata
+### Neurospike Errata?
 Shrike Code should read "they first take 2 heat whenever they make an attack roll." as opposed to triggering whenever they attack, meaning that attacks against multiple targets will trigger the penalty multiple times.<wot:426288556902842368/738783942014009417>
 
 ## Page 176, SSC Monarch
@@ -234,13 +234,13 @@ The Blinkshield can't be crossed with any effect, and that includes another Blin
 No. Strictly speaking, combat actions such as Stabilize don't really "exist" outside of combat. When resting or during downtime the Stabilize action isn't something you take, you have other options for repairing your mech available to you, the same way that if you were looking to use your mech to shoot at a guard tower during a narrative scene you wouldn't declare "I use a Skirmish," you would simply state your intent to shoot the tower.
 
 ## Long Rim Page 53, HORUS Lich
-### Chronostutter Errata
+### Chronostutter Errata?
 Chronostutter's text currently reads "The character taking the action is pushed up to 3 spaces". 
 
 This should instead read *"the target of the action* is pushed up to 3 spaces". <wot:426288556902842368/741749908448477281>
 
 ## Long Rim Page 59, HA Sunzi
-### Blink Charges Errata
+### Blink Charges Errata?
 The Warp Grenade effect of Blink Charges currently reads "choose any character within the affected area".
 This should instead read "choose any characters within the affected area" to make it clear that it can affect multiple targets. <wot:441336855951048725/727938103209361478>
 
