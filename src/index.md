@@ -15,7 +15,7 @@ You cannot apply a Mod (a system with the Mod tag) to integrated weapons and you
 Your Sensor range is completely irrelevant when it comes to making ranged attacks. They do not represent what your mech can see - they are used for determining range for Searching for Hidden enemies, tech attacks, and other things such as Drone deployment. 
 
 ## Page 35, Core Bonuses
-### Core Bonuses Errata:
+### Core Bonuses Errata?
 The text currently reads "These ranks can be in any combination – for example, you might have the rank I and rank II license for one mech and three different rank I licenses, equaling six in total." This should instead read "These ranks can be in any combination – for example, you might have the rank I, rank II, and rank III license for one mech and three different rank I licenses, equaling six in total." Each rank in a license counts once, regardless of whether it is rank I, rank II, or rank III of its respective license.
 
 ## Page 55, Get Focused
