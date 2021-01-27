@@ -120,14 +120,21 @@ No, a Loading weapon that hasn't been fully expended cannot be reloaded until it
 
 ## Page 105, Ordnance
 ### The Ordnance tag reads "This weapon can only be fired before the user moves or takes any other actions on their turn." Does this mean you cannot use Ordnance weapons outside of your turn, such as with Heavy Gunner?
-This is a slight misprint. Ordnance should read " This weapon can only be fired before the user moves or takes any other actions on a turn." Ordnance weapons can be used outside of your turn with various reactions (except for Overwatch which is explicitly disallowed) as long as you abide by the tag's other restrictions. <wot:426288556902842368/683147010723151943>
+This is a slight misprint. Ordnance should read "This weapon can only be fired before the user moves or takes any other actions on a turn." Ordnance weapons can be used outside of your turn with various reactions (except for Overwatch which is explicitly disallowed) as long as you abide by the tag's other restrictions. <wot:426288556902842368/683147010723151943>
 
 ## Page 105, Smart
 ### Do I add my Tech Attack bonus to attacks made with Smart weapons?
 No. All Smart changes is the stat you *target* -- E-Defense rather than Evasion. You still use your Grit bonus when rolling.
 
+## Page 105, Drone
+### Do Drones count as characters?
+Yes, Drones are characters that are allied to their users.
+
+### Can Drones hold control zones during sitreps?
+It depends. By strictly rules as written, drones count as allied characters, and so they would count for holding control zones. However, this is not intended to work this way by Word of Tom and will likely be changed in future errata to make it so that drones cannot hold objectives. <wot:428263462809108480/746094343919501362> 
+
 ## Page 121, Stable Structure
-### Stabile Structure Errata?
+### Stable Structure Errata?
 Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
 
 ## Page 120, Pattern-A Smoke Charges, Pattern-B HEX Charges
