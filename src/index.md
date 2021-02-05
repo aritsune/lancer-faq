@@ -266,4 +266,4 @@ No, the two should be identical. Use the Archer's version for both.
 
 ## Page 317, Sniper NPC
 ### The rules text for the Moving Target reaction ends with "If the rifle isn't". What is it supposed to say?
-This is a typo; it should say to reload the Anti-Materiel Rifle if it isn't loaded.
+This is a typo; it should say "If the rifle isn’t loaded, the Sniper instead reloads it."
