@@ -260,6 +260,10 @@ Yes.<wot:426288556902842368/703379534715682816>
 ### The Archer's Covering Fire optional system doesn't list a duration. How long does it last?
 The area created by Covering Fire, and the ability for the Archer to use the associated Got Your Back reaction, should last until the end of the Archer's next turn after it uses this ability.
 
-## Page 315 Sentinel NPC
+## Page 315, Sentinel NPC
 ### The Sentinel's Rapid Response optional system is formatted differently from the Archer's version. Is this intentional?
 No, the two should be identical. Use the Archer's version for both.
+
+## Page 317, Sniper NPC
+### The rules text for the Moving Target reaction ends with "If the rifle isn't". What is it supposed to say?
+This is a typo; it should say to reload the Anti-Materiel Rifle if it isn't loaded.
