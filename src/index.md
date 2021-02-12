@@ -46,6 +46,11 @@ The text currently reads "Flying characters that take structure damage or stress
 ### Can tech attacks crit? / What happens when a tech attack crits?
 Nothing. Only melee and ranged attacks can land a critical hit.
 
+## Page 64, Range and Patterns
+### When using an area-of-effect or multi-target attack, such as one with a Blast pattern, do I have to roll all attempts to hit first before then applying damage, or can I apply damage to targets in the middle of an attack? For example, can I attempt to destroy one target before moving on to try and hit other targets?
+
+For area-of-effect and multi-target attacks, all attack rolls are made first, then damage is applied afterward. <wot:426288556902842368/809894653297164308>
+
 ## Page 65, Invisibility
 ### Does Invisibility work against tech attacks? Do Reliable weapons deal their damage on a miss when the miss is caused by Invisibility? Are area-of-effect weapons affected by Invisibility?
 Invisibility in Lancer is fairly straightforward. All incoming attacks, whether they're ranged, melee, or tech, have a 50% chance to miss before the attack roll is made. This applies to area-of-effect attacks just as much as single target attacks. If an attack made against an Invisible target misses due to the 50% miss chance, that is a miss and it triggers any effects that may be activated on a miss, including Reliable damage.
