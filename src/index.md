@@ -138,6 +138,10 @@ Yes, Drones are characters that are allied to their users.
 ### Can Drones hold control zones during sitreps?
 It depends. By strictly rules as written, drones count as allied characters, and so they would count for holding control zones. However, this is not intended to work this way by Word of Tom and will likely be changed in future errata to make it so that drones cannot hold objectives. <wot:428263462809108480/746094343919501362> 
 
+## Page 110, Stealth Hardsuit
+### Stealth Hardsuit Errata?
+The Stealth Hardsuit's description should read "They cease to be Invisible if they take any damage or take any actions other than Hide or Boost." <wot:426288556902842368/736267954001543239>
+
 ## Page 121, Stable Structure
 ### Stable Structure Errata?
 Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
