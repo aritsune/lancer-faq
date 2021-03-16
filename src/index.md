@@ -96,27 +96,27 @@ Any Heat in excess of your Heat Cap is applied to the next bar. For example, if 
 Taking the quick action to spin up your thrusters should grant you the Supersonic reaction if you end your turn flying until the end of your next turn. <wot:426288556902842368/732468073612967968>
 
 ## Page 94, Executioner
-### When I miss with an attack and use No Escape, does that trigger Reliable? What about having to pay costs such as heat again? Are weapons with the Loading tag expended on the miss?
+### When I miss with an attack and use Executioner: No Escape, does that trigger Reliable? What about having to pay costs such as heat again? Are weapons with the Loading tag expended on the miss?
 Missing with an attack that triggers No Escape (or Exemplar's Valiant Aid) will trigger Reliable, but do not incur additional costs or require reloading to make the rerolled attack. <wot:426288556902842368/708389666981806201>
 
 ## Page 96, Hacker
-### Why does Last Argument of Kings have a clause saying what happens when you overheat a target with it?
+### Why does Hacker: Last Argument of Kings have a clause saying what happens when you overheat a target with it?
 Despite the fact that Last Argument of Kings doesn't deal any Heat by default, there are some effects such as Hacker's Snow_Crash or Nuclear Cavalier's Aggressive Heat Bleed that could result in it dealing Heat. This clause is here to prevent you from losing out on Burn if you so happen to overheat a target with those extra Heat effects.
 
 ## Page 97, Hunter
-### Can I use Disdainful Blade to throw the same auxiliary melee weapon I used to hit a character with and trigger the ability in the first place?
+### Can I use Hunter: Disdainful Blade to throw the same auxiliary melee weapon I used to hit a character with and trigger the ability in the first place?
 Yes.
 
 ## Page 99, Leader
-### Field Commander says you can expend a Leadership Die to gain +1 Accuracy on any action that directly follows from that order. What if that action involves more than one roll, such as Barraging?
+### Leader: Field Commander says you can expend a Leadership Die to gain +1 Accuracy on any action that directly follows from that order. What if that action involves more than one roll, such as Barraging?
 Every roll in the action gets the additional Accuracy. This means that all the attack rolls in a Barrage that directly follows the given order gets Accuracy if you spend a Leadership die in that way. <wot:426288556902842368/775399535811231745> 
 
 ## Page 100, Siege Specialist
-### Can you use the effect of Impact when attacking with a Cannon with Ordnance? Would the push from Impact trigger the clause in Ordnance that says you can't attack with an Ordnance weapon if you had already moved that turn?
+### Can you use the effect of Siege Specialist: Impact when attacking with a Cannon with Ordnance? Would the push from Impact trigger the clause in Ordnance that says you can't attack with an Ordnance weapon if you had already moved that turn?
 You are allowed to use Impact with Cannons that have the Ordnance tag and it will not interfere with you firing the weapon. <wot:426288556902842368/753974191220457543> 
 
 ## Page 102, Tactician
-### Do I get the Solar Backdrop benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
+### Do I get the Tactician: Solar Backdrop benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
 No, Solar Backdrop doesn't care about relative mech size/height, only whether your position on the map is a higher elevation than the target you're shooting at. Measure from your feet, not from your head.
 
 ## Page 105, Loading
