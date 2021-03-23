@@ -43,6 +43,9 @@ No, if you did part of a standard move to get into engagement, you lose the rest
 The text currently reads "Flying characters that take structure damage or stress must succeed on an AGILITY save or begin falling." This should read "AGILITY check" instead of "AGILITY save".
 
 ## Page 64, Attacks
+### When something says "an attack," does that mean a single roll or all rolls with a weapon in the case of area-of-effect/multi-target weapons?
+This is a question that has frequently arisen due to ambiguity in the wording of things brought about by late developmental changes and editing. The official intent is that something that says "an attack" means an attack roll. There are two major exceptions to this. The first is that things which add bonus damage still do so to the entirety of a weapon's use, following the rules for halving bonus damage when targeting more than one character. An example of this is the Overpower Caliber core bonus. Some effects such as Nuclear Cavalier 2 or Hunter Lock will deal bonus damage only to specific targets or on particular rolls, but those will be explicitly spelled out as such. The other exception is triggered effects will occur once in response to a trigger. The Nelson's Skirmisher trait states that it triggers "after attacking," and is therefore triggered after every complete use of a weapon in a Skirmish or Barrage, as well as after anything else which constitutes an attack such as rams, improvised attacks, etc.
+
 ### Can tech attacks crit? / What happens when a tech attack crits?
 Nothing. Only melee and ranged attacks can land a critical hit.
 
@@ -244,6 +247,12 @@ No, the Repulser Field will not cause mines that have not yet armed to detonate.
 ## Page 241, HA Napoleon
 ### If I create a Blinkshield, can I create another Blinkshield within it before the first one expires?
 The Blinkshield can't be crossed with any effect, and that includes another Blinkshield. If you attempt to create a Blinkshield within a Blinkshield and any part of the two shields overlap or intersect, you cannot do so as it would violate the clause that states that no effect can cross the Blinkshield. 
+
+## Page 243, HA Saladin
+### How does NOAH's Diluvian Ark interact with attacks that target multiple characters?
+When used in response to an attack that targets multiple characters, if it successfully activates, the reaction granted by NOAH's Diluvian Ark will cause attack rolls made against you and your adjacent allies to automatically miss, but it won't have any effect on attack rolls made against characters that are within the attack's area of effect that are not adjacent to you.
+
+Additionally, the final effect of Diluvian Ark that deals damage when ranged attacks fail to hit you or adjacent allies will trigger once per attack roll, regardless of whether or not the reaction was taken.
 
 ## Page 246, HA Sherman
 ### Can I repeatedly Stabilize outside of combat to add charges to the ZF4 Solidcore?
