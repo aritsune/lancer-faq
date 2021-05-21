@@ -92,7 +92,7 @@ No.
 The 2 Stress remaining entry under Meltdown should read "A reactor meltdown can be prevented by retrying the ENGINEERING check as a full action." <wot:441336855951048725/664175573966520340>
 
 ### When overheating, how exactly does the spillover heat work?
-Any Heat in excess of your Heat Cap is applied to the next bar. For example, if your Heat Cap was 6, and you were at 5 Heat, taking 2 Heat would put you at 7/6, forcing you to take 1 Stress and make an overheating check, leaving you at 1 Heat out of 6 Heat Cap. Notably, you can safely stay at exactly your Heat Cap (in this case, taking 1 Heat and going to 6 Heat out of 6 Heat Cap will not cause you to overheat) and there is no way to overheat and roll over to exactly 0 Heat without some effect stating otherwise.
+Any Heat in excess of your Heat Cap is applied to the next bar. For example, if your Heat Cap was 6, and you were at 5 Heat, taking 2 Heat would put you at 7/6, forcing you to take 1 Stress and make an overheating check, leaving you at 1 Heat out of 6 Heat Cap. Notably, you can safely stay at exactly your Heat Cap (in this case, taking 1 Heat and going to 6 Heat out of 6 Heat Cap will not cause you to overheat) and there is no way to overheat and roll over to exactly 0 Heat without some effect stating otherwise. <wot:760966283545673730/789297842228297748>
 
 ## Page 90, Ace
 ### Ace Errata?
