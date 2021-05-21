@@ -1,6 +1,8 @@
 
 module.exports = function (markdownstr) {
-  const regex = /^### (.*\?)\n+((?:(?!\n##)[\s\S])*)/gm
+  const regex = /^### (.+?\n+)([^#]+)/gm
+  //^### for markdown header, group1 is the question and any number of newlines
+  //group2 is the answer, defined by "anything, incl whitespace, that isn't a #"
 
   const output = []
   let match
