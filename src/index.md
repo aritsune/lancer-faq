@@ -289,6 +289,11 @@ Yes.<wot:426288556902842368/703379534715682816>
 ### The Archer's Covering Fire optional system doesn't list a duration. How long does it last?
 The area created by Covering Fire, and the ability for the Archer to use the associated Got Your Back reaction, should last until the end of the Archer's next turn after it uses this ability.
 
+## Page 307, Priest NPC
+### The Priest's Sanctuary optional ability doesn't seem to list a duration for how long it lasts? Does it last indefinitely, or does it expire at a certain point?
+
+The Sanctuary effect should last until the end of the Priest's next turn. <wot:426288556902842368/859410683573043201>
+
 ## Page 315, Sentinel NPC
 ### The Sentinel's Rapid Response optional system is formatted differently from the Archer's version. Is this intentional?
 No, the two should be identical. Use the Archer's version for both.
