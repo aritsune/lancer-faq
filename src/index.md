@@ -90,6 +90,9 @@ On a successful grapple against an opponent of the same size, the character who 
 ### When Skirmishing (or Barraging) in a way that grants bonus attacks with auxiliary weapons, such as with a Main/Aux mount, can I choose to attack with the bonus auxiliary attack first before the attack with the primary weapon?
 Yes. When you make an attack with a Skirmish or Barrage that grants a bonus auxiliary weapon attack you can choose the order those weapons attack in. However, bonus auxiliary weapon attacks will still not deal bonus damage even if they come first. <wot:426288556902842368/678782825541140499>
 
+### Can I choose to make that bonus auxiliary attack at a different target from the attack with the primary weapon?
+Yes. <sup>[\[word of Tom\]](https://twitter.com/Orbitaldropkick/status/1415813656739303436)</sup>
+
 ## Page 71, Barrage
 ### Can I Barrage using the same weapon twice?
 No.
