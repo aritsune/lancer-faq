@@ -292,9 +292,15 @@ Yes.<wot:426288556902842368/703379534715682816>
 ### The Archer's Covering Fire optional system doesn't list a duration. How long does it last?
 The area created by Covering Fire, and the ability for the Archer to use the associated Got Your Back reaction, should last until the end of the Archer's next turn after it uses this ability.
 
+## Page 294, Bombard NPC
+### What counts as a target for the Bombard's Cluster Munitions?
+Only characters (which includes Drones) should trigger the additional damage from Cluster Munitions. <wot:426288556902842368/864163574712500234>
+
+### Is the Bombard's Cluster Munitions Bonus Damage?
+The Bombard's Cluster Munitions are explicitly not Bonus Damage, as it is not labeled Bonus Damage. As it only comes up in situations in which any Bonus Damage would be halved, this wording allows you to avoid having to do the extra math of halving the damage it adds, as it would always need to be halved otherwise. 
+
 ## Page 307, Priest NPC
 ### The Priest's Sanctuary optional ability doesn't seem to list a duration for how long it lasts? Does it last indefinitely, or does it expire at a certain point?
-
 The Sanctuary effect should last until the end of the Priest's next turn. <wot:426288556902842368/859410683573043201>
 
 ## Page 315, Sentinel NPC
