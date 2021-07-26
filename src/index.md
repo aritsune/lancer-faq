@@ -300,13 +300,13 @@ The Quick Tech and Full Tech actions differ slightly for NPCs than for PCs. Nota
 By default, NPCs have only one Structure and are automatically destroyed without a Structure Damage check when they reach 0 HP.
 However, this may change depending on Template.
 
-If an NPC has any templates that grant them more than 1 Structure, such as the Veteran or Ultra templates, they follow the standard rules for Structure Damage and rolls on the Structure Damage table like a PC would. Like usual, if they run out of Structure entirely, they are automatically destroyed. 
+If an NPC has any templates that grant them more than 1 Structure, such as the Veteran or Ultra templates, they follow the standard rules for Structure Damage and roll on the Structure Damage table like a PC would. Like usual, if they run out of Structure entirely, they are automatically destroyed. 
 
 ### What happens when an NPC overheats? How does Stress work for NPCs?
 By default, NPCs only have one Stress and become Exposed indefinitely when they exceed their Heat Cap instead of making an Overheating check. They remain at 1 remaining Stress and are Exposed until they take the Stabilize action, which clears their Heat and ends the Exposed Status.
 However, this may change depending on Template.
 
-If an NPC has any templates that grant them more than 1 Stress, such as the Veteran or Ultra templates, they follow the standard rules for Overheating and rolls on the Overheating table like a PC would. Like usual, if they run out of Stress entirely, they will suffer a reactor meltdown at the end of their next turn.
+If an NPC has any templates that grant them more than 1 Stress, such as the Veteran or Ultra templates, they follow the standard rules for Overheating and roll on the Overheating table like a PC would. Like usual, if they run out of Stress entirely, they will suffer a reactor meltdown at the end of their next turn.
 
 If an NPC has the Grunt template, any Heat from an external source will automatically destroy them. This does not cause a reactor meltdown, they are just destroyed. Self-inflicted Heat works like it would for a normal NPC.
 
