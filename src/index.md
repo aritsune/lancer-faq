@@ -287,6 +287,31 @@ This should instead read "choose any characters within the affected area" to mak
 ### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
 Yes.<wot:426288556902842368/703379534715682816>
 
+## NPC General Rules
+## Page 280, NPC Actions
+### Can NPCs Stabilize? Can NPCs Invade? Can NPCs Brace? Can NPCs Overcharge?
+NPCs can Stabilize, but it only reloads weapons and ends Exposed. NPCs have their own version of a default Invade Quick Tech that uses Systems as a bonus to the attack roll and only deals 2 Heat and Impaired until the end of the target's next turn on hit. NPCs cannot Brace or Overcharge by default unless some other feature granted to them allows for it. Further information can be found in the list of actions NPCs can take and how they different from the corresponding PC actions, which can be found on page 280.
+
+### Can NPCs do the same Tech Attack twice in one turn?
+The Quick Tech and Full Tech actions differ slightly for NPCs than for PCs. Notably, unlike PCs, the NPC Full Tech option allows for one Full Tech option or two different Quick Tech options, where as a PC is allowed to take the same Quick Tech option twice when they use Full Tech. However, NPCs do not use the same Invasion framework as players: Each Quick Tech option given to them is its own unique thing. This means that, for example, a Witch is allowed to use Full Tech to use Tear Down and Blind in the same turn, where as 2 Tear Down Quick Techs would not be possible, barring the usual Free Action exceptions.
+
+## Page 281, NPC Damage and Heat
+### What happens when an NPC runs out of HP? How does Structure work for NPCs?
+By default, NPCs have only one Structure and are automatically destroyed without a Structure Damage check when they reach 0 HP.
+However, this may change depending on Template.
+
+If an NPC has any templates that grant them more than 1 Structure, such as the Veteran or Ultra templates, they follow the standard rules for Structure Damage and roll on the Structure Damage table like a PC would. Like usual, if they run out of Structure entirely, they are automatically destroyed. 
+
+### What happens when an NPC overheats? How does Stress work for NPCs?
+By default, NPCs only have one Stress and become Exposed indefinitely when they exceed their Heat Cap instead of making an Overheating check. They remain at 1 remaining Stress and are Exposed until they take the Stabilize action, which clears their Heat and ends the Exposed Status.
+However, this may change depending on Template.
+
+If an NPC has any templates that grant them more than 1 Stress, such as the Veteran or Ultra templates, they follow the standard rules for Overheating and roll on the Overheating table like a PC would. Like usual, if they run out of Stress entirely, they will suffer a reactor meltdown at the end of their next turn.
+
+If an NPC has the Grunt template, any Heat from an external source will automatically destroy them. This does not cause a reactor meltdown, they are just destroyed. Self-inflicted Heat works like it would for a normal NPC.
+
+If an NPC has no Heat Cap at all, they take Heat as Energy Damage instead. <wot:426288556902842368/869278907692626001>
+
 ## NPC Classes
 ## Page 288, Archer NPC
 ### The Archer's Covering Fire optional system doesn't list a duration. How long does it last?
