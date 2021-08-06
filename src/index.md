@@ -163,9 +163,12 @@ By default, systems with the Grenade tag or the Mine tag take a quick action to 
 ### Stable Structure Errata?
 Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
 
-## Page 121, Turret Drone, Turret Attack
+## Page 121, Turret Drone
 ### Can I trigger a Turret Attack from each of my own Turret Drones on my own attack?
-No, the reaction for Turret Attack is gained/used by the pilot, not the Turret Drone. This makes taking the Turret Attack reaction inaccessable during your own turn and can only be triggered by someone else that is allied with you. Regarding reactions on page 73, "You can only take one reaction per turn – your turn or other characters’ turns". This means that only one Turret Attack reaction is allowed per turn on an ally's successful attack.
+No, the reaction for Turret Attack is taken by you, not the Turret Drone. Because of this, the "allied character" that triggers the Turret Attack needs to be allied to you, not the drone. You do not count as your own ally, and so you cannot trigger your own Turret Attack reaction.
+
+### Can multiple Turret Attacks trigger off of an ally's single attack?
+You can only take one reaction per turn, once on each character's turn. Because of this restriction, you can only use one Turret Attack reaction per turn, even if you have multiple Turret Drones out, unless some other effect allows you to take multiple reactions in a turn. 
 
 ## Page 127, IPS-N Core Bonuses
 ### Does the Gyges Frame core bonus give +1 Threat to integrated melee weapons, as those are listed as unable to be modified?
