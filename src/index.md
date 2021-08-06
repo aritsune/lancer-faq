@@ -163,6 +163,10 @@ Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or fo
 ### What kind of action is it to use the Pattern-A Smoke Charges and the Pattern-B HEX Charges? No action is listed.
 By default, systems with the Grenade tag or the Mine tag take a quick action to use, which can be found in their tag descriptions on page 106. This applies to all Grenades and Mines, unless the specific system says otherwise.
 
+## Page 121, Turret Drone, Turret Attack
+### Can I trigger a Turret Attack from each of my own Turret Drones on my own attack?
+No, the reaction for Turret Attack is gained/used by the pilot, not the Turret Drone. This makes taking the Turret Attack reaction inaccessable during your own turn and can only be triggered by someone else that is allied with you. Regarding reactions on page 73, "You can only take one reaction per turn – your turn or other characters’ turns". This means that only one Turret Attack reaction is allowed per turn on an ally's successful attack.
+
 ## Page 127, IPS-N Core Bonuses
 ### Does the Gyges Frame core bonus give +1 Threat to integrated melee weapons, as those are listed as unable to be modified?
 Yes, Gyges Frame does apply its effect to Integrated weapons as it is a blanket effect and not specifically applied to the weapon or mount. <wot:426288556902842368/773636612235591680>
