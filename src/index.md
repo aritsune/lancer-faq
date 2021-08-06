@@ -155,13 +155,13 @@ It depends. By strictly rules as written, drones count as allied characters, and
 ### Stealth Hardsuit Errata?
 The Stealth Hardsuit's description should read "They cease to be Invisible if they take any damage or take any actions other than Hide or Boost." <wot:426288556902842368/736267954001543239>
 
-## Page 121, Stable Structure
-### Stable Structure Errata?
-Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
-
 ## Page 120, Pattern-A Smoke Charges, Pattern-B HEX Charges
 ### What kind of action is it to use the Pattern-A Smoke Charges and the Pattern-B HEX Charges? No action is listed.
 By default, systems with the Grenade tag or the Mine tag take a quick action to use, which can be found in their tag descriptions on page 106. This applies to all Grenades and Mines, unless the specific system says otherwise.
+
+## Page 121, Stable Structure
+### Stable Structure Errata?
+Stable Structure should read "You gain +1 Accuracy on saves to avoid Prone or forced movement (Knockback, Push, Pull, etc).<wot:441336855951048725/710963654094225530>
 
 ## Page 121, Turret Drone, Turret Attack
 ### Can I trigger a Turret Attack from each of my own Turret Drones on my own attack?
