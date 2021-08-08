@@ -209,7 +209,7 @@ Yes, Neurolink Targeting does apply its effect to Integrated weapons as it is a 
 
 ## Page 160, SSC Black Witch
 ### Magnetic Cannon Errata?
-The Magnetic Cannon's effect should read "On Attack" instead of "On Hit"
+The Magnetic Cannon's effect should read "On Attack" instead of "On Hit" <wot:426288556902842368/873827932374720602>
 
 ## Page 168, SSC Dusk Wing
 ### If I position two Hall of Mirrors holograms to both hit the same target, then teleport to a hologram to detonate all of them at once, does this hit that target twice?
