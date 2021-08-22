@@ -232,6 +232,10 @@ No, when the Regeneration trait is disabled you do not regain any HP at the end 
 ### Does the Autopod count as an attack and/or a hit for the purpose of things that trigger off attacks or hits, such as the Stormbringer talent?
 Yes, the Autopod's Autonomous Assault reaction is considered an attack which automatically hits.
 
+## Page 206, HORUS Hydra
+### Are the reactions granted by the Snare, Shredder, and Hunter Orochi Drones 1/round like most reactions?
+The reactions granted by those drones can be used more than once in a round, as long as you obey the usual restriction of taking only 1 reaction per turn. <wot:426288556902842368/878998661235867658>
+
 ## Page 210, HORUS Manticore
 ### Is there any way at all I can activate CASTIGATE THE ENEMIES OF THE GODHEAD without being physically present in the mech itself at the time of detonation? A subaltern with a copy of my neural pattern? A clone? A brick on the accelerator? My long lost twin sibling, who I don't like very much? A service animal? Anything?
 No.
