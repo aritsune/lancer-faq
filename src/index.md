@@ -270,6 +270,9 @@ No, the Repulser Field will not cause mines that have not yet armed to detonate.
 
 No, when the Trueblack Aegis is active, the Napoleon should be unable to use free action abilities like that to violate its action restrictions. Free actions which allow it to perform actions it's explicitly capable of performing while the Aegis is active are permitted, such as any free action Grapples or Rams it may proc from sources such as Titanomachy Mesh, but otherwise it should be assumed that free actions which attempt to get around the action restrictions of the Trueblack Aegis are disallowed. <wot:426288556902842368/851931696454303744>
 
+### Phase-Ready Mod Errata?
+The Invisibility penalty only applies when you are using Phase-Ready to bypass the Line of Sight requirement. If you are only using it to ignore cover and you already have Line of Sight, Phase-Ready Mod doesn't cause the target to be treated as Invisible.
+
 ### If I create a Blinkshield, can I create another Blinkshield within it before the first one expires?
 The Blinkshield can't be crossed with any effect, and that includes another Blinkshield. If you attempt to create a Blinkshield within a Blinkshield and any part of the two shields overlap or intersect, you cannot do so as it would violate the clause that states that no effect can cross the Blinkshield. 
 
