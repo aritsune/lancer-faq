@@ -120,6 +120,10 @@ Despite the fact that Last Argument of Kings doesn't deal any Heat by default, t
 ### Can I use Hunter: Disdainful Blade to throw the same auxiliary melee weapon I used to hit a character with and trigger the ability in the first place?
 Yes.
 
+## Page 98, Infiltrator
+### Can I move using Infiltrator: Mastermind even if I don't flash bomb anyone?
+Yes. <wot:426288556902842368/817172875802312744>
+
 ## Page 99, Leader
 ### Leader: Field Commander says you can expend a Leadership Die to gain +1 Accuracy on any action that directly follows from that order. What if that action involves more than one roll, such as Barraging?
 Every roll in the action gets the additional Accuracy. This means that all the attack rolls in a Barrage that directly follows the given order gets Accuracy if you spend a Leadership die in that way. <wot:426288556902842368/775399535811231745> 
