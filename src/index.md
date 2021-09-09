@@ -86,6 +86,10 @@ No. Immunity is not a reduction.
 ### What happens when you Grapple someone the same Size as you and try to move before the contested check that determines who counts as bigger occurs?
 On a successful grapple against an opponent of the same size, the character who initiated the grapple immediately has control over it, meaning that the attacker can move their opponent assuming that they didn't lose all of their remaining movement due to becoming Engaged this turn or that they have some other source of movement they are allowed to take. At the start of the grappled target's next turn, they then have the opportunity to initiate a contested Hull check to take control of the grapple. <wot:426288556902842368/743578354019467314>
 
+## Page 70, Lock On
+### Is Lock On a hostile action for the purpose of breaking Hidden?
+Yes, using Lock On on an enemy while Hidden will cause you to lose Hidden after it resolves, because even though it's not an Attack, it qualifies as a hostile action due to affecting a hostile character. <wot:https://discord.com/channels/426286410496999425/426288556902842368/734771147790352495>
+
 ## Page 70, Skirmish
 ### When Skirmishing (or Barraging) in a way that grants bonus attacks with auxiliary weapons, such as with a Main/Aux mount, can I choose to attack with the bonus auxiliary attack first before the attack with the primary weapon?
 Yes. When you make an attack with a Skirmish or Barrage that grants a bonus auxiliary weapon attack you can choose the order those weapons attack in. However, bonus auxiliary weapon attacks will still not deal bonus damage even if they come first. <wot:426288556902842368/678782825541140499>
