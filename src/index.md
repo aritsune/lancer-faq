@@ -282,7 +282,7 @@ No, when the Trueblack Aegis is active, the Napoleon should be unable to use fre
 The Invisibility penalty only applies when you are using Phase-Ready to bypass the Line of Sight requirement. If you are only using it to ignore cover and you already have Line of Sight, Phase-Ready Mod doesn't cause the target to be treated as Invisible.
 
 ### If I create a Blinkshield, can I create another Blinkshield within it before the first one expires?
-The Blinkshield can't be crossed with any effect, and that includes another Blinkshield. If you attempt to create a Blinkshield within a Blinkshield and any part of the two shields overlap or intersect, you cannot do so as it would violate the clause that states that no effect can cross the Blinkshield. 
+The Blinkshield can't be crossed with any effect, and that includes another Blinkshield. If you attempt to create a Blinkshield within a Blinkshield and any part of the two shields overlap or intersect, you cannot do so as it would violate the clause that states that no effect can cross the Blinkshield. <wot:441336855951048725/696715737724616705>
 
 ## Page 243, HA Saladin
 ### How does NOAH's Diluvian Ark interact with attacks that target multiple characters?
