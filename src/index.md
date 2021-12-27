@@ -148,6 +148,10 @@ No, a Loading weapon that hasn't been fully expended cannot be reloaded until it
 ### The Ordnance tag reads "This weapon can only be fired before the user moves or takes any other actions on their turn." Does this mean you cannot use Ordnance weapons outside of your turn, such as with Heavy Gunner?
 This is a slight misprint. Ordnance should read "This weapon can only be fired before the user moves or takes any other actions on a turn." Ordnance weapons can be used outside of your turn with various reactions (except for Overwatch which is explicitly disallowed) as long as you abide by the tag's other restrictions. <wot:426288556902842368/683147010723151943>
 
+## Page 105, Overkill
+### What happens when a weapon with a 1d3 damage die has Overkill?
+Any damage dice that land on a 1 will cause the attacker to take 1 heat and then be rerolled. This means that if you are rolling a d6 to represent a d3, because both a 1 or a 2 on the d6 results in a 1 on the d3, both will cause Overkill to trigger.
+
 ## Page 105, Smart
 ### Do I add my Tech Attack bonus to attacks made with Smart weapons?
 No. All Smart changes is the stat you *target* -- E-Defense rather than Evasion. You still use your Grit bonus when rolling.
