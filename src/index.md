@@ -307,6 +307,9 @@ Chronostutter's text currently reads "The character taking the action is pushed 
 
 This should instead read *"the target of the action* is pushed up to 3 spaces". <wot:426288556902842368/741749908448477281>
 
+### Wandering Nightmare Errata?
+Wandering Nightmare should have the Unique tag. <wot:426288556902842368/854158565300633630>
+
 ## Long Rim Page 59, HA Sunzi
 ### Blink Charges Errata?
 The Warp Grenade effect of Blink Charges currently reads "choose any character within the affected area".
