@@ -182,6 +182,10 @@ No, the reaction for Turret Attack is taken by you, not the Turret Drone. Becaus
 ### Can multiple Turret Attacks trigger off of an ally's single attack?
 You can only take one reaction per turn, once on each character's turn. Because of this restriction, you can only use one Turret Attack reaction per turn, even if you have multiple Turret Drones out, unless some other effect allows you to take multiple reactions in a turn. 
 
+## Page 121, Rapid Burst Jump Jet System
+### Can you attack while in midair thanks to Boosting with Jump Jets?
+Yes, the falling happens after you completely finish your movement, so you can attack midair. <wot:426288556902842368/937486090816880731>
+
 ## Page 127, IPS-N Core Bonuses
 ### Does the Gyges Frame core bonus give +1 Threat to integrated melee weapons, as those are listed as unable to be modified?
 Yes, Gyges Frame does apply its effect to Integrated weapons as it is a blanket effect and not specifically applied to the weapon or mount. <wot:426288556902842368/773636612235591680>
@@ -235,6 +239,10 @@ Shrike Code should read "they first take 2 heat whenever they make an attack rol
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
 No. The Pinaka Missiles are still treated as a single attack, just one with a custom area-of-effect that consists of two Blast areas. Even if you place both Blasts in a way that they could hit a single target without overlapping, you still only roll to hit that target once.
+
+## Page 180, SSC Mourning Cloak
+### If the only hostile character that has unobstructed line of sight to you currently treats you as Invisible due to Stalk Prey, can you Hide?
+No. <wot:426288556902842368/937486090816880731>
 
 ## Page 192, HORUS Balor
 ### If the Balor's Regeneration trait is disabled from taking stress or structure damage, when it reactivates at the end of the next turn do you then also regenerate HP at the end of that turn as well?
@@ -319,9 +327,16 @@ This should instead read "choose any characters within the affected area" to mak
 ### Is a used Snapdragon Launcher a valid target for System Trauma?
 No. <wot:426288556902842368/937441581756219562>
 
+## Wallflower Part 1 Page 196, Eidolons
+### Do Eidolon layers count as new characters or the same character for the purposes of things like Eject Power Cores or Extrude Basilisk that only can be used on a character once per scene?
+Each layer counts as the same character. <wot:426288556902842368/937486090816880731>
+
 ## Multi-license Interactions
 ### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
 Yes.<wot:426288556902842368/703379534715682816>
+
+### If you use the Kidd's Reroute Power on the Black Witch's Perimeter Command Plate, is the System itself Destroyed or just the deployed plate?
+The Perimeter Command Plate System itself is Destroyed. <wot:426288556902842368/937486090816880731>
 
 ## NPC General Rules
 ## Page 280, NPC Actions
