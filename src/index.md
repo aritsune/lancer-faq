@@ -263,6 +263,10 @@ The reactions granted by those drones can be used more than once in a round, as 
 ### Is there any way at all I can activate CASTIGATE THE ENEMIES OF THE GODHEAD without being physically present in the mech itself at the time of detonation? A subaltern with a copy of my neural pattern? A clone? A brick on the accelerator? My long lost twin sibling, who I don't like very much? A service animal? Anything?
 No.
 
+## Page 214, HORUS Minotaur
+### How does the Minotaur's Metafold Maze work with the Logic Bomb invade option from Viral Logic Suite? Targets Slowed by this option aren't the ones who were initially targeted by the tech attack, so can Metafold Maze be used against them?
+Per Tom, all targets affected by the Logic Bomb's area Slow can be affected by a single activation of Metafold Maze, even though the rules as written currently do not indicate as such. <wot:441336855951048725/941160041644441610>
+
 ## Page 218, HORUS Pegasus
 ### What does ¿%:?EXTR!UDE GUN actually do?
 GUN: GUN
