@@ -32,7 +32,7 @@ Additionally, if you have multiple copies of the same weapon, such as two Assaul
 
 ## Page 62, Splitting Up Movement
 ### If I choose to split up movement in a way that I move into an enemy's threat range, pause to attack them, and then continue my movement afterward, does that count as beginning a movement in their threat for the purpose of triggering Overwatch?
-Yes.
+Yes, it would provoke Overwatch. <wot:426288556902842368/948775703913041960>
 
 ## Page 62, Engagement
 ### When I lose my unused movement from becoming engaged, do I lose ALL my movement, even the ones I didn't use?
