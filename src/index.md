@@ -342,6 +342,9 @@ Yes.<wot:426288556902842368/703379534715682816>
 ### If you use the Kidd's Reroute Power on the Black Witch's Perimeter Command Plate, is the System itself Destroyed or just the deployed plate?
 The Perimeter Command Plate System itself is Destroyed. <wot:426288556902842368/937486090816880731>
 
+### Do things that say that they don't stack with Invisible stack with each other?
+No, they do not. <wot:426288556902842368/955570468537135124>
+
 ## NPC General Rules
 ## Page 280, NPC Actions
 ### Can NPCs Stabilize? Can NPCs Invade? Can NPCs Brace? Can NPCs Overcharge?
@@ -390,3 +393,7 @@ No, the two should be identical. Use the Archer's version for both.
 ## Page 317, Sniper NPC
 ### The rules text for the Moving Target reaction ends with "If the rifle isn't". What is it supposed to say?
 This is a typo; it should say "If the rifle isn’t loaded, the Sniper instead reloads it."
+
+## Page 326, NPC Templates
+### If an NPC has multiple traits with the same name from different sources (like getting Deadly from taking both the Pirate and Ultra templates), do they stack? What about template features like Reinforced?
+Generally speaking, things with the same name are not intended to stack, so something like Deadly wouldn't apply twice, but features that grant additional Structure and Stress are intended to stack. <wot:426288556902842368/955570468537135124>
