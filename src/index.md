@@ -352,6 +352,10 @@ The Perimeter Command Plate System itself is Destroyed. <wot:426288556902842368/
 ### Do things that say that they don't stack with Invisible stack with each other?
 No, they do not. <wot:426288556902842368/955570468537135124>
 
+## Karrakin Trade Baronies Page 128, House Guard
+### Does the fact that Front Rank makes you count as adjacent for traits affecting allied characters means that Guardian lets your allies use you as hard cover from 2 spaces away?
+No, the default hard cover rules still apply, and so they would still need to be adjacent to you and the cover would only apply directionally like usual. The soft cover effect granted by Greater Guardian works just fine at range 2 though. <wot:426288556902842368/963897069330894898>
+
 ## NPC General Rules
 ## Page 280, NPC Actions
 ### Can NPCs Stabilize? Can NPCs Invade? Can NPCs Brace? Can NPCs Overcharge?
