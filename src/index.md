@@ -391,7 +391,11 @@ The area created by Covering Fire, and the ability for the Archer to use the ass
 Only characters (which includes Drones) should trigger the additional damage from Cluster Munitions. <wot:426288556902842368/864163574712500234>
 
 ### Is the Bombard's Cluster Munitions Bonus Damage?
-The Bombard's Cluster Munitions are explicitly not Bonus Damage, as it is not labeled Bonus Damage. As it only comes up in situations in which any Bonus Damage would be halved, this wording allows you to avoid having to do the extra math of halving the damage it adds, as it would always need to be halved otherwise. 
+The Bombard's Cluster Munitions are explicitly not Bonus Damage, as it is not labeled Bonus Damage. As it only comes up in situations in which any Bonus Damage would be halved, this wording allows you to avoid having to do the extra math of halving the damage it adds, as it would always need to be halved otherwise.
+
+## Page 298, Demolisher NPC
+### Broad-Sweep Haft makes melee attacks in a burst around the Demolisher as its own optional ability. Does this count for the Kinetic Compensation trait which gives the Demolisher stacking accuracy on missed melee attacks until it hits?
+Yes. <wot:426288556902842368/971749509669470248>
 
 ## Page 307, Priest NPC
 ### The Priest's Sanctuary optional ability doesn't seem to list a duration for how long it lasts? Does it last indefinitely, or does it expire at a certain point?
