@@ -356,6 +356,15 @@ No, they do not. <wot:426288556902842368/955570468537135124>
 ### Does the fact that Front Rank makes you count as adjacent for traits affecting allied characters means that Guardian lets your allies use you as hard cover from 2 spaces away?
 No, the default hard cover rules still apply, and so they would still need to be adjacent to you and the cover would only apply directionally like usual. The soft cover effect granted by Greater Guardian works just fine at range 2 though. <wot:426288556902842368/963897069330894898>
 
+## Karrakin Trade Baronies Page 132, SSC White Witch
+### Sympathetic Shield Errata?
+Sympathetic Shield should have the Unique tag. <wot:426288556902842368/976440526293331968>
+
+## Karrakin Trade Baronies Page 136, SSC Emperor
+### The Bolt Nexus has an on hit effect which raises its damage from 1 to 4 until you attack a different target. Is this meant to apply to the first attack you make against a target by choosing to apply the on hit effect first?
+
+No, the change to the Bolt Nexus' profile is meant to occur after the initial attack resolves fully. The first attack against a target does the base 1 damage, then successive attacks with it gain the benefits of the enhanced profile. <wot:426288556902842368/976958186630303784>
+
 ## NPC General Rules
 ## Page 280, NPC Actions
 ### Can NPCs Stabilize? Can NPCs Invade? Can NPCs Brace? Can NPCs Overcharge?
@@ -394,8 +403,8 @@ Only characters (which includes Drones) should trigger the additional damage fro
 The Bombard's Cluster Munitions are explicitly not Bonus Damage, as it is not labeled Bonus Damage. As it only comes up in situations in which any Bonus Damage would be halved, this wording allows you to avoid having to do the extra math of halving the damage it adds, as it would always need to be halved otherwise.
 
 ## Page 298, Demolisher NPC
-### Broad-Sweep Haft makes melee attacks in a burst around the Demolisher as its own optional ability. Does this count for the Kinetic Compensation trait which gives the Demolisher stacking accuracy on missed melee attacks until it hits?
-Yes. <wot:426288556902842368/971749509669470248>
+### Does the Demolisher's Broad-Haft Sweep optional system count as using the Demolisher Hammer weapon for the purpose of its Kinetic Compensation optional trait, which gives the Demolisher additional Accuracy on subsequent attacks after missing with the hammer, or does it have to use the Demolisher Hammer specifically in order to trigger Kinetic Compensation's benefits?
+Broad-Haft Sweep works in conjunction with Kinetic Compensation, granting stacking Accuracy on missed attacks until the next hit. <wot:426288556902842368/971749509669470248>
 
 ## Page 307, Priest NPC
 ### The Priest's Sanctuary optional ability doesn't seem to list a duration for how long it lasts? Does it last indefinitely, or does it expire at a certain point?
