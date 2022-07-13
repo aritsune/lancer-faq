@@ -243,6 +243,11 @@ No. This is treated as a single effect, just one with a custom area-of-effect th
 ### Neurospike Errata?
 Shrike Code should read "they first take 2 heat whenever they make an attack roll." as opposed to triggering whenever they attack, meaning that attacks against multiple targets will trigger the penalty multiple times.<wot:426288556902842368/738783942014009417>
 
+## Page 172, SSC Metalmark
+### Does the Metalmark's Carapace Adaptation trait work with anything that grants soft cover, such as a charged DD/288 or talents such as Combined Arms and Skirmisher, or does it only apply to zones of soft cover such as those created by smoke grenades?
+
+Carapace Adaptation applies to anything that grants soft cover, including talents, weapons, etc. <wot:426288556902842368/996633207111942227>
+
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
 No. The Pinaka Missiles are still treated as a single attack, just one with a custom area-of-effect that consists of two Blast areas. Even if you place both Blasts in a way that they could hit a single target without overlapping, you still only roll to hit that target once.
