@@ -170,6 +170,14 @@ Yes, Drones are characters that are allied to their users.
 ### Can Drones hold control zones during sitreps?
 It depends. By strictly rules as written, drones count as allied characters, and so they would count for holding control zones. However, this is not intended to work this way by Word of Tom and will likely be changed in future errata to make it so that drones cannot hold objectives. <wot:428263462809108480/746094343919501362> 
 
+## Page 106, Mod tag
+### If a modded weapon (such as a melee weapon modified with the Nelson's Thermal Charges or a Metalmark's Shock Wreath) is destroyed, is the mod destroyed with the weapon? Do destroyed weapons with mods have to spend a single repair for both the weapon and mod, or two in total to repair both the weapon and mod separately?
+
+Per Tom, the following applies to weapon mods and destruction:
+1). When a modded weapon is destroyed, the weapon mod itself is also considered destroyed.
+2). However, repairing a destroyed modded weapon also repairs the mod for free along with it.
+3). To go along with this, clarification and errata has been given that weapon mods are not valid choices for System Trauma when taking structure damage. The weapon mod and the weapon it is equipped to are considered to essentially be the same thing, not two separate things. <wot:426288556902842368/999426711819124786>
+
 ## Page 110, Stealth Hardsuit
 ### Stealth Hardsuit Errata?
 The Stealth Hardsuit's description should read "They cease to be Invisible if they take any damage or take any actions other than Hide or Boost." <wot:426288556902842368/736267954001543239>
