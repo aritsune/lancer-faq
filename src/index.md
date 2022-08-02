@@ -170,6 +170,9 @@ Yes, Drones are characters that are allied to their users.
 ### Can Drones hold control zones during sitreps?
 It depends. By strictly rules as written, drones count as allied characters, and so they would count for holding control zones. However, this is not intended to work this way by Word of Tom and will likely be changed in future errata to make it so that drones cannot hold objectives. <wot:428263462809108480/746094343919501362> 
 
+### What does it mean to redeploy a drone?
+Some drones, such as the Balor's Hive Drone or the Hydra's Tempest Drone, have rules text allowing you to redeploy them as a quick action. This means that, as a single quick action, you may immediately move the drone to a different valid space that you would be allowed to deploy it to, without having to spend a quick action to recall it first. <wot:426288556902842368/1004089368811679836>
+
 ## Page 106, Mod tag
 ### If a modded weapon (such as a melee weapon modified with the Nelson's Thermal Charges or a Metalmark's Shock Wreath) is destroyed, is the mod destroyed with the weapon? Do destroyed weapons with mods have to spend a single repair for both the weapon and mod, or two in total to repair both the weapon and mod separately?
 
