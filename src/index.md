@@ -6,6 +6,17 @@
 
 <!-- toc -->
 
+## Page 14, GRIT
+### What exactly is the GRIT bonus applied to, anyway?
+The bonus from GRIT is used for several different things, some of which are not listed in the initial entry. The following is a list of all the standard ways GRIT is used, not including any Systems or granted Abilities that may reference your GRIT bonus:
+- Added to Ranged and Melee Attack rolls [pg. 34]
+- Added to Pilot HP [pg. 28, pg. 48] and Mech HP [pg. 34]
+- Added to Save Target [pg. 34]
+- Added to System Points [pg. 33]
+- Added to Pilot attack rolls and Pilot saves if Unmounted in mech combat [pg. 58, pg. 74]
+- Added to Jockey skill check if other trigger does not apply [pg. 75]
+- NOT added to Tech Attack rolls (use Tech Attack bonus instead) [pg. 34]
+
 ## Page 32, Integrated Mounts
 ### What does it mean when it says that the weapons in an integrated mount cannot be modified in any way?
 You cannot apply a Mod (a system with the Mod tag) to integrated weapons and you cannot apply core bonuses such as Overpower Caliber (which requires you to choose a weapon) or Auto-stabilizing Hardpoints (which requires you to choose a mount) to integrated weapons either. However, blanket effects such as Neurolink Targeting or Siege Stabilizers (which apply to all weapons of a specific type) can apply to them. <wot:426288556902842368/773636612235591680>
