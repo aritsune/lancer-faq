@@ -309,7 +309,7 @@ GUN: GUN
 
 No. The Ushabti still follows valid targeting rules (it specifically calls out needing line of sight and for the target to be within its Range, for instance) and Intangible characters are not valid targets for tangible characters and vice versa. The specific effects that cannot be superseded are "doesn’t count as an attack, hits automatically, ignores cover, bypasses IMMUNITY, and its damage can’t be reduced or ignored in any way," none of which override the requirements of picking a valid target in the first place.
 
-https://discord.com/channels/426286410496999425/426288556902842368/1047688164598349925
+<wot:426288556902842368/1047688164598349925>
 
 ## Page 226, HA Barbarossa
 ### If I use a system like the Flak Launcher which states targets "can no longer fly" in a zero-gravity environment where everyone is assumed to be flying at all times, does that prevent them from moving at all?
