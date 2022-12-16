@@ -443,6 +443,10 @@ Broad-Haft Sweep works in conjunction with Kinetic Compensation, granting stacki
 ### The Priest's Sanctuary optional ability doesn't seem to list a duration for how long it lasts? Does it last indefinitely, or does it expire at a certain point?
 The Sanctuary effect should last until the end of the Priest's next turn. <wot:426288556902842368/859410683573043201>
 
+## Page 314, Seeder NPC
+### How do Seeder Mines work? Why are they Invisible (the keyword) if they can't be targeted at all?
+Tom has gone on the record stating that the fact that Seeder mines are listed as Invisible is an error that was introduced in editing, as the original rules text was meant for them to be invisible, as in, "not visible to players on the map." This was erroneously changed to "Invisible, the keyword." In other words, the original intent was that players can't see them or target them, aside from the Systems check while in Sensors to reveal them and the subsequent Systems check to disarm them after they have been revealed. <426288556902842368/1053313548824092764>
+
 ## Page 315, Sentinel NPC
 ### The Sentinel's Rapid Response optional system is formatted differently from the Archer's version. Is this intentional?
 No, the two should be identical. Use the Archer's version for both.
