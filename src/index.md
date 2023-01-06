@@ -106,7 +106,7 @@ Yes. Strictly speaking, Hidden is a status that prevents you from being targeted
 
 ## Page 70, Lock On
 ### Is Lock On a hostile action for the purpose of breaking Hidden?
-Yes, using Lock On on an enemy while Hidden will cause you to lose Hidden after it resolves, because even though it's not an Attack, it qualifies as a hostile action due to affecting a hostile character. <wot:https://discord.com/channels/426286410496999425/426288556902842368/734771147790352495>
+Yes, using Lock On on an enemy while Hidden will cause you to lose Hidden after it resolves, because even though it's not an Attack, it qualifies as a hostile action due to affecting a hostile character. <wot:426288556902842368/734771147790352495>
 
 ## Page 70, Skirmish
 ### When Skirmishing (or Barraging) in a way that grants bonus attacks with auxiliary weapons, such as with a Main/Aux mount, can I choose to attack with the bonus auxiliary attack first before the attack with the primary weapon?
