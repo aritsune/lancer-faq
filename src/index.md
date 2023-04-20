@@ -402,7 +402,27 @@ Sympathetic Shield should have the Unique tag. <wot:426288556902842368/976440526
 
 No, the change to the Bolt Nexus' profile is meant to occur after the initial attack resolves fully. The first attack against a target does the base 1 damage, then successive attacks with it gain the benefits of the enhanced profile. <wot:426288556902842368/976958186630303784>
 
+## Solstice Rain Page 41, Miniaturized LinAc Coherent Beam Cannon
+### Does the Miniaturized LinAc Coherent Beam Cannon proc Universal Compatibility?
+Yes, it serves as an alternate Core System, which is the requirement for proccing Universal Compatibility. It can still only be used 1/mission regardless of whether Universal Compatibility procs or you have a Core Battery reserve.
+
+## Solstice Rain Page 44, Demolitionist
+### How does the Demolitionist talent Quarterback interact with the Iskander's Assault Launcher and Mine Deployers?
+As Assault Launcher gives mines a range (of 15) then Quarterback adds to that, making it 18 with effective Arcing. Mines placed with Mine Deployers may be placed out to Range 3.
+
+### How does Demolitionist work with the Barbarossa's Roller Grenade?
+The answer is "in some cases not at all." On a talent by talent rank breakdown, Frag and Clear allows you to exclude one character from the affected area, so you can use it to let the Roller Grenade "skip" someone and not detonate on contact with them. Quarterback does not allow you to throw them further, because they have no range value to modify, but you do gain the Arcing benefit for the line. Fire in the Hole does not affect them because they aren't thrown and more importantly they do not have a targeted space for the ability to work from.
+
+### What happens if you toss a GMS Pattern-A Smoke Grenade and use Frag and Clear to choose one character in the affected area and ignore its effects?
+The effect of the Smoke Grenade is "All characters and objects within the blast area benefit from soft cover until the end of your next turn," so if you pick a character to ignore the effects of this, that chosen character cannot benefit from this effect. That is to say, if you throw a Smoke Grenade and choose a character in its area to ignore the effects, they do NOT benefit from the soft cover it provides for its duration. You tag them with special trackers, you hit them with one of those dye packs they stick in with the money, you curve the smoke cloud, etc. They have to be within its area at the time you throw it, it can't be decided upon after the fact.
+
+## Solstice Rain Page 45, GMS Chomolungma
+### Can you use the Chomolungma's System Crusher to give heat to an ally?
+
+No, the heat it deals is part and parcel with the heat that Invades normally do. This means if used on an ally, it does no heat. This also means that the heat it deals is one packet and not two separate ones, in instances where that may matter.
+
 ## NPC General Rules
+
 ## Page 280, NPC Actions
 ### Can NPCs Stabilize? Can NPCs Invade? Can NPCs Brace? Can NPCs Overcharge?
 NPCs can Stabilize, but it only reloads weapons, clears Heat, and ends Exposed. NPCs have their own version of a default Invade Quick Tech that uses Systems as a bonus to the attack roll and only deals 2 Heat and Impaired until the end of the target's next turn on hit. Other NPC tech attacks are not specifically "Invades" but work as described in the stat blocks of each specific NPC Class. NPCs cannot Brace or Overcharge by default unless some other feature granted to them allows for it. Further information can be found in the list of actions NPCs can take and how they differ from the corresponding PC actions, which can be found on page 280.
