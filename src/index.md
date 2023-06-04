@@ -158,6 +158,9 @@ Every roll in the action gets the additional Accuracy. This means that all the a
 ### Can you use the effect of Siege Specialist: Impact when attacking with a Cannon with Ordnance? Would the push from Impact trigger the clause in Ordnance that says you can't attack with an Ordnance weapon if you had already moved that turn?
 You are allowed to use Impact with Cannons that have the Ordnance tag and it will not interfere with you firing the weapon. <wot:426288556902842368/753974191220457543> 
 
+### Does the push part of Siege Specialist: Impact allow you to attack a character Engaged with you with an Ordnance weapon by breaking adjacency with them and thus Engagement?
+No, you need to have declared a valid attack already, and Engaged characters are not valid for Ordnance. <wot:426288556902842368/669015861280899072>
+
 ## Page 102, Tactician
 ### Do I get the Tactician: Solar Backdrop benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
 No, Solar Backdrop doesn't care about relative mech size/height, only whether your position on the map is a higher elevation than the target you're shooting at. Measure from your feet, not from your head.
