@@ -247,6 +247,9 @@ No. Any mech with the Guardian trait (and the Barbarossa's Colossus trait) only 
 ### How does the Skirmisher trait interact with weapons that make multiple attack rolls, such as weapons with an area-of-effect?
 The Nelson's Skirmisher trait triggers once per overall attack with a weapon, regardless of how many attack rolls it may have, so an attack with an area-of-effect weapon will still trigger the trait and grant you movement only once. It can however, still trigger multiple times on the same Skirmish or Barrage, such as if you Skirmish with a Main weapon and an Auxiliary weapon in the Nelson's Main/Aux mount.
 
+### Is Armor-Lock Plating optional to use when you Brace?
+Yes, when you Brace, you can decide whether or not to gain the benefits of the system, and the 2 Heat (Self) will only apply if you choose to do so. <wot:441336855951048725/684171096638881799>
+
 ## Page 144, IPS-N Raleigh
 ### If at the end of my turn I reload my weapons due to the Full Metal Jacket trait, can I then use that reload as a trigger to fire the M35 Mjolnir as a free action even though the FMJ reload is at the end of my turn?
 Yes.
