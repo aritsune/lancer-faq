@@ -85,7 +85,7 @@ Guardian only provides the benefit of hard cover to adjacent allies, and therefo
 
 ## Page 67, Harm
 ### Do half-damage effects stack? (e.g. Heavy Gunner, HyperDense Armor)
-They do not stack. "Dealing half damage" is a binary state, similar to Resistance.
+They do not stack. "Dealing half damage" is a binary state, similar to Resistance. <wot:426288556902842368/700816834689105970>
 
 ### Does the Saladin's Paracausal Mod bypass half-damage effects?
 It does not -- the halved damage from effects such as Heavy Gunner is not a *reduction* like Resistance is; it happens "before" step 1 of damage calculations.
