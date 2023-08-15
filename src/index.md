@@ -33,6 +33,10 @@ The text currently reads "These ranks can be in any combination – for example,
 ### Can I use the Get Focused downtime action to improve Triggers such as Assault or Apply Fists to Faces, or can it only be used to improve the new Triggers created using Get Focused?
 The latter. Get Focused cannot be used to improve the ranks of Triggers that it was not used to create. <wot:426288556902842368/686780898636595205>
 
+## Page 58, Characters and Objects
+### Is the ground an object or terrain? 
+No. Terrain refers to things like rocks or walls. <wot:426288556902842368/747518446610415676><wot:426288556902842368/659100256205799465>
+
 ## Page 61, Types of Actions
 ### Can I attack with the same weapon or mount multiple times in a turn?
 There is no rule specifically preventing you from using a weapon multiple times in the same turn, but the rule preventing you from taking the same action more than once per turn (such as Skirmish) and the fact that Barrage specifies two different weapons means that by default, you will not be able to attack with the same weapon more than once per turn. You cannot spend both of your default quick actions on Skirmish and Barrage cannot be used to pick the same weapon twice. 
@@ -49,9 +53,15 @@ Yes, it would provoke Overwatch. <wot:426288556902842368/948775703913041960>
 ### When I lose my unused movement from becoming engaged, do I lose ALL my movement, even the ones I didn't use?
 No, if you did part of a standard move to get into engagement, you lose the rest of it, but you can still boost if you didn't boost already to get out of engagement. <wot:426288556902842368/713498072336040008>
 
+### If I end a movement that ignores engagement in engagement, do I lose other remaining unspent movement?
+No. <wot:426288556902842368/1044058999252856962>
+
 ## Page 63, Flight
 ### Flight Errata?
 The text currently reads "Flying characters that take structure damage or stress must succeed on an AGILITY save or begin falling." This should read "AGILITY check" instead of "AGILITY save".
+
+### Flight mentions only moving in straight lines, but also ignoring obstructions as long as it is physically possible to do so. How does this work in regards to flying over obstacles?
+You are allowed to fly "over" things, you just can't curve left or right. <wot:426288556902842368/639099897118720000>
 
 ## Page 64, Attacks
 ### When something says "an attack," does that mean a single roll or all rolls with a weapon in the case of area-of-effect/multi-target weapons?
@@ -60,15 +70,24 @@ This is a question that has frequently arisen due to ambiguity in the wording of
 ### Can tech attacks crit? / What happens when a tech attack crits?
 Nothing. Only melee and ranged attacks can land a critical hit.
 
+### If something lets you reroll an attack against a different target, do you get to keep any effects on the original attack?
+Yes, any effects on your side of things will remain, though target side effects like Cover may have to be recalculated. <wot:426288556902842368/1038075142632374302><wot:426288556902842368/1038079069029412894>
+
 ## Page 64, Range and Patterns
 ### When using an area-of-effect or multi-target attack, such as one with a Blast pattern, do I have to roll all attempts to hit first before then applying damage, or can I apply damage to targets in the middle of an attack? For example, can I attempt to destroy one target before moving on to try and hit other targets?
 
 For area-of-effect and multi-target attacks, all attack rolls are made first, then damage is applied afterward. <wot:426288556902842368/809894653297164308>
 
+### Burst mentions that the user or target is not affected by the Burst if it is an attack. Does this mean non-Attack harmful effects will harm the user or target?
+No, they are not intended to. <wot:426288556902842368/705499390361731154>
+
 ### An effect (such as Overwatch or Heavy Gunner) says I have to attack a specific character, but I'm using an area weapon. How do I place the area?
 It's valid to place the area anywhere, as long as it also attacks that character. <wot:426288556902842368/796648481791803402>
 It doesn't have to be centered on that character. <wot:426288556902842368/796648511717638174>
 
+## Page 65, Valid Targets
+### Can you target empty spaces?
+Yes, but things that trigger off hitting or object/terrain destruction do not work. <wot:426288556902842368/747518821505433761>
 ## Page 65, Invisibility
 ### Does Invisibility work against tech attacks? Do Reliable weapons deal their damage on a miss when the miss is caused by Invisibility? Are area-of-effect weapons affected by Invisibility?
 Invisibility in Lancer is fairly straightforward. All incoming attacks, whether they're ranged, melee, or tech, have a 50% chance to miss before the attack roll is made. This applies to area-of-effect attacks just as much as single target attacks. If an attack made against an Invisible target misses due to the 50% miss chance, that is a miss and it triggers any effects that may be activated on a miss, including Reliable damage.
@@ -91,7 +110,7 @@ They do not stack. "Dealing half damage" is a binary state, similar to Resistanc
 It does not -- the halved damage from effects such as Heavy Gunner is not a *reduction* like Resistance is; it happens "before" step 1 of damage calculations.
 
 ### How does Resistance to Burn work? Does it halve the end of turn damage *twice*?
-It does not. Resistance to Burn only affects the initial damage, and not the end-of-turn ticks. If you take 4 Burn and resist it, you will take 2 Burn damage and mark 2 Burn stacks, but you will take 2 Burn damage if you fail the EOT check.
+It does not. Resistance to Burn only affects the initial damage, and not the end-of-turn ticks. If you take 4 Burn and resist it, you will take 2 Burn damage and mark 2 Burn stacks, but you will take 2 Burn damage if you fail the EOT check. <wot:426288556902842368/712402522077265991>
 
 ### If a character is hit by an attack and the damage is reduced to 0, such as by armor or a system like the Drake's Aegis Shield Generator, does that still count as "taking damage" for the purpose of triggers such as the Genghis' Auto-Cooler?
 Yes, an instance of damage that is reduced to 0 damage such as by armor still counts as taking damage for those purposes. Immunity to damage overrides this as it specifically notes on page 68 under the Immunity section. <wot:426288556902842368/718463769826820143>
@@ -103,6 +122,12 @@ No. Immunity is not a reduction.
 ## Page 69, Grapple
 ### What happens when you Grapple someone the same Size as you and try to move before the contested check that determines who counts as bigger occurs?
 On a successful grapple against an opponent of the same size, the character who initiated the grapple immediately has control over it, meaning that the attacker can move their opponent assuming that they didn't lose all of their remaining movement due to becoming Engaged this turn or that they have some other source of movement they are allowed to take. At the start of the grappled target's next turn, they then have the opportunity to initiate a contested Hull check to take control of the grapple. <wot:426288556902842368/743578354019467314>
+
+### If multiple smaller allies are grappling a larger target, and count as larger, can they each move the larger one on their turn?
+Yes, the entire grapple can be moved by any of the allied participants. <wot:426288556902842368/743579156935344174>
+
+### Can you Stabilize to break a Grapple by ending the Immobilized Condition caused by it?
+No, the Immobilized condition would immediately be reapplied by the state of being in a Grapple. <wot:426288556902842368/655945079072096266>
 
 ## Page 69, Hide
 ### Do I know the location of a hidden, hostile NPC?
@@ -121,7 +146,19 @@ Yes. <wot:426288556902842368/869250769520558130>
 
 ## Page 71, Barrage
 ### Can I Barrage using the same weapon twice?
-No.
+No. Barrage says that you attack with two weapons or one Superheavy weapon. The same weapon twice is not two weapons.
+
+## Page 73, Overcharge
+### Can you Overcharge, do something else, and then spend the Quick Action you gained via Overcharge?
+No, when you Overcharge, you gain the Heat and then immediately perform the Quick Action you Overcharged to do. <wot426288556902842368/704095913228107798>
+
+## Page 73, Reactions
+### Can you take Reactions before your first turn in combat?
+Yes, but if you use a 1/Round Reaction before your first turn, it expends it for the round, so you wouldn't get it back until the start of your turn in the second round. <wot:426288556902842368/736320046934261881>
+
+## Page 78, Jammed
+### What does "can't... take or benefit from tech actions" mean?
+It effectively means "cannot take tech actions or be targeted by allied tech actions.” <wot:426288556902842368/917663246851379222>
 
 ## Page 81, Overheating Table
 ### Overheating Table Errata?
@@ -138,11 +175,17 @@ Taking the quick action to spin up your thrusters should grant you the Supersoni
 ### When I miss with an attack and use Executioner: No Escape, does that trigger Reliable? What about having to pay costs such as heat again? Are weapons with the Loading tag expended on the miss?
 Missing with an attack that triggers No Escape (or Exemplar's Valiant Aid) will trigger Reliable, but do not incur additional costs or require reloading to make the rerolled attack. <wot:426288556902842368/708389666981806201>
 
+### How would a Burst weapon interact with Executioner 3, such as the Engineer Weapon?
+You would re-roll the single missed attack against a new target, not re-do the entire burst.<wot:426288556902842368/736270102135046144>
+
 ## Page 96, Hacker
 ### Why does Hacker: Last Argument of Kings have a clause saying what happens when you overheat a target with it?
 Despite the fact that Last Argument of Kings doesn't deal any Heat by default, there are some effects such as Hacker's Snow_Crash or Nuclear Cavalier's Aggressive Heat Bleed that could result in it dealing Heat. This clause is here to prevent you from losing out on Burn if you so happen to overheat a target with those extra Heat effects.
 
 ## Page 97, Hunter
+### How long does the flight from the Hunter talent’s Lunge last?
+It lasts until the end of the movement, meaning you'll fall afterwards if not on the ground. <wot:426288556902842368/864163574712500234>
+
 ### Can I use Hunter: Disdainful Blade to throw the same auxiliary melee weapon I used to hit a character with and trigger the ability in the first place?
 Yes.
 
@@ -165,6 +208,10 @@ No, you need to have declared a valid attack already, and Engaged characters are
 ### Do I get the Tactician: Solar Backdrop benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
 No, Solar Backdrop doesn't care about relative mech size/height, only whether your position on the map is a higher elevation than the target you're shooting at. Measure from your feet, not from your head.
 
+## Page 105, AI Tag
+### Can NHPs that aren't allowed to use talents use systems or weapons granted by talents?
+They are allowed to use weapons granted by talents and the flight system from Spaceborn is allowed, but Walking Armory is not. <wot:426288556902842368/892187705306402856>
+
 ## Page 105, Loading
 ### Can I reload weapons with the Loading tag that haven't been fired to trigger effects that apply when reloading weapons?
 No, a Loading weapon that hasn't been fully expended cannot be reloaded until it requires it.
@@ -172,6 +219,9 @@ No, a Loading weapon that hasn't been fully expended cannot be reloaded until it
 ## Page 105, Ordnance
 ### The Ordnance tag reads "This weapon can only be fired before the user moves or takes any other actions on their turn." Does this mean you cannot use Ordnance weapons outside of your turn, such as with Heavy Gunner?
 This is a slight misprint. Ordnance should read "This weapon can only be fired before the user moves or takes any other actions on a turn." Ordnance weapons can be used outside of your turn with various reactions (except for Overwatch which is explicitly disallowed) as long as you abide by the tag's other restrictions. <wot:426288556902842368/683147010723151943>
+
+### Can you Overcharge to use an Ordnance weapon?
+You are able to Overcharge to Skirmish with an Ordnance Weapon, as it is not an additional Free Action you take to then do a Quick Action, it makes the Quick Action itself a Free Action. <wot:426288556902842368/704095120902979606>
 
 ## Page 105, Overkill
 ### What happens when a weapon with a 1d3 damage die has Overkill?
@@ -203,6 +253,9 @@ Per Tom, the following applies to weapon mods and destruction:
 ### Stealth Hardsuit Errata?
 The Stealth Hardsuit's description should read "They cease to be Invisible if they take any damage or take any actions other than Hide or Boost." <wot:426288556902842368/736267954001543239>
 
+## Page 118, Integrated Weapon
+### Can you use the GMS Integrated Weapon core to brace a Superheavy weapon?
+No. <wot:441336855951048725/585865626652770344>
 ## Page 120, Pattern-A Smoke Charges, Pattern-B HEX Charges
 ### What kind of action is it to use the Pattern-A Smoke Charges and the Pattern-B HEX Charges? No action is listed.
 By default, systems with the Grenade tag or the Mine tag take a quick action to use, which can be found in their tag descriptions on page 106. This applies to all Grenades and Mines, unless the specific system says otherwise.
@@ -243,6 +296,9 @@ SEKHMET Protocol doesn’t hand over control of your mech to the GM as if your N
 ### Does the Drake's Guardian trait mean it provides soft cover against attacks that would be obstructed by it even if an ally isn't adjacent to it, as per the guidelines for Checking For Cover on page 66?
 No. Any mech with the Guardian trait (and the Barbarossa's Colossus trait) only provide cover to allies who are adjacent to them, they do not act as actual pieces of environmental hard cover for the purpose of the Checking For Cover guidelines.<wot:441336855951048725/684190967133110369>
 
+## Page 136, IPS-N Lancaster
+### If you're on a Mule Harness, how do Bursts work?
+You share the space of the mech who's Mule Harness you are on, so you measure the burst from them. (Remember that bursts can affect characters within the same space as you, including the mech who's Mule Harness you are riding.) <wot:426288556902842368/722166880873480354>
 ## Page 140, IPS-N Nelson
 ### How does the Skirmisher trait interact with weapons that make multiple attack rolls, such as weapons with an area-of-effect?
 The Nelson's Skirmisher trait triggers once per overall attack with a weapon, regardless of how many attack rolls it may have, so an attack with an area-of-effect weapon will still trigger the trait and grant you movement only once. It can however, still trigger multiple times on the same Skirmish or Barrage, such as if you Skirmish with a Main weapon and an Auxiliary weapon in the Nelson's Main/Aux mount.
@@ -263,6 +319,12 @@ The latter. Bursts always measure their size from the targeted point. If a Burst
 Yes, Neurolink Targeting does apply its effect to Integrated weapons as it is a blanket effect and not specifically applied to the weapon or mount. <wot:426288556902842368/773636612235591680>
 
 ## Page 160, SSC Black Witch
+### If there are multiple targets for a single ranged attack that would be stopped by Mag Field, such as with an Area of Effect weapon, does that count as multiple blocked attacks?
+No. <wot:426288556902842368/706862634187751495>
+ 
+### What counts as colliding with something, like for Ferrous Lash?
+Whatever movement is happening needs to attempt to enter the space of the thing you are colliding with. <wot:426288556902842368/735485782600450109>
+
 ### Magnetic Cannon Errata?
 The Magnetic Cannon's effect should read "On Attack" instead of "On Hit" <wot:426288556902842368/873827932374720602>
 
@@ -282,7 +344,7 @@ Carapace Adaptation applies to anything that grants soft cover, including talent
 
 ## Page 176, SSC Monarch
 ### If I position the two Blast areas of a Pinaka Missiles attack so that they both hit a size 2 or size 3 target without overlapping, does this hit that target twice?
-No. The Pinaka Missiles are still treated as a single attack, just one with a custom area-of-effect that consists of two Blast areas. Even if you place both Blasts in a way that they could hit a single target without overlapping, you still only roll to hit that target once.
+No. The Pinaka Missiles are still treated as a single attack, just one with a custom area-of-effect that consists of two Blast areas. Even if you place both Blasts in a way that they could hit a single target without overlapping, you still only roll to hit that target once. <wot:426288556902842368/688199277495058489>
 
 ## Page 180, SSC Mourning Cloak
 ### If the only hostile character that has unobstructed line of sight to you currently treats you as Invisible due to Stalk Prey, can you Hide?
@@ -292,12 +354,19 @@ No. <wot:426288556902842368/937486090816880731>
 ### If the Balor's Regeneration trait is disabled from taking stress or structure damage, when it reactivates at the end of the next turn do you then also regenerate HP at the end of that turn as well?
 No, when the Regeneration trait is disabled you do not regain any HP at the end of your next turn, even though both reactivating the trait and regaining HP happen "at the end of your next turn." The trait simply reactivates. The next opportunity you'll have to regain HP with the Regeneration trait will be end of the turn after that.
 
+### Can you benefit from your own Hive Drone's soft cover?
+Yes. <wot:489490742318989363/1055003765780000789>
+
 ## Page 196, HORUS Goblin
 ### Does the Autopod count as an attack and/or a hit for the purpose of things that trigger off attacks or hits, such as the Stormbringer talent?
 Yes, the Autopod's Autonomous Assault reaction is considered an attack which automatically hits.
 
 ### Does Puppet System bypass the Heavy Frame trait, as it does not count as a push, pull, or knockback?
 Per Tom, Heavy Frame should still work against Puppet System. This means that a smaller mech can't use Puppet System to ignore Heavy Frame on either allies or enemies. <wot:428263462809108480/800131829629321246>
+
+## Page 202, HORUS Gorgon
+### If some effect such as Invisibility would cause an attack to automatically miss a Gorgon, does Metastatic Paralysis still apply?
+Yes, you would still roll to see if the d20 rolled a 1 or 2. <wot:426288556902842368/819325017937936456>
 
 ## Page 206, HORUS Hydra
 ### Are the reactions granted by the Snare, Shredder, and Hunter Orochi Drones 1/round like most reactions?
@@ -339,9 +408,14 @@ Yes.
 ### Is the Gravity Gun affected by Invisibility?
 No. The Gravity Gun's use is, technically speaking, an attack. If your mech is unable to make attacks for some reason, such as being Jammed, it cannot use the Gravity Gun. But the actual effect of the Gravity Gun when you attack with it is one that has no associated to hit roll of any sort, functioning instead more like a grenade or mine, and so there's no way for it to "miss" like a regular attack would, even if the target is Invisible. This also means that the Gravity Gun does not benefit from anything that would trigger on hit or on crit since it can do neither of those things.
 
+### Can the Gravity Gun "benefit" from the increased Save Target from the core bonus The Lesson of the Open Door?
+Yes, the Save Target is being modified, not the Gravity Gun. <wot:426288556902842368/706875386281328650>
+
 ### Can the Repulser Field set off mines that you have deployed this turn that have not armed yet?
 No, the Repulser Field will not cause mines that have not yet armed to detonate. <wot:426288556902842368/799788877354369057>
 
+### What happens when someone affected by Pinpoint Focus clears the Immobilization?
+The whole effect should end and the target should float to the ground. <wot:426288556902842368/706875386281328650>
 ## Page 241, HA Napoleon
 ### When the Napoleon's Trueblack Aegis is active, can it use free action attacks such as those granted by the UNCLE-Class Comp/Con or Autoguns?
 
@@ -354,6 +428,9 @@ The Invisibility penalty only applies when you are using Phase-Ready to bypass t
 The Blinkshield can't be crossed with any effect, and that includes another Blinkshield. If you attempt to create a Blinkshield within a Blinkshield and any part of the two shields overlap or intersect, you cannot do so as it would violate the clause that states that no effect can cross the Blinkshield. <wot:441336855951048725/696715737724616705>
 
 ## Page 243, HA Saladin
+### Does Hardlight Defense System break line of sight if two characters are on opposite sides, but both still outside?
+If two characters are on opposite sides, the Hardlight Defense System could break line of sight like any sufficiently large object could.
+
 ### How does NOAH's Diluvian Ark interact with attacks that target multiple characters?
 When used in response to an attack that targets multiple characters, if it successfully activates, the reaction granted by NOAH's Diluvian Ark will cause attack rolls made against you and your adjacent allies to automatically miss, but it won't have any effect on attack rolls made against characters that are within the attack's area of effect that are not adjacent to you.
 
@@ -363,11 +440,21 @@ Additionally, the final effect of Diluvian Ark that deals damage when ranged att
 ### Can I repeatedly Stabilize outside of combat to add charges to the ZF4 Solidcore?
 No. Strictly speaking, combat actions such as Stabilize don't really "exist" outside of combat. When resting or during downtime the Stabilize action isn't something you take, you have other options for repairing your mech available to you, the same way that if you were looking to use your mech to shoot at a guard tower during a narrative scene you wouldn't declare "I use a Skirmish," you would simply state your intent to shoot the tower.
 
+## Long Rim Page 41, SSC Atlas
+### Can you bounce off the same wall more than once with Jager Kunst I?
+Most long walls would count as a single unique piece of terrain and thus only cause one trigger. <wot:426288556902842368/711051673879183450>
+
 ## Long Rim Page 53, HORUS Lich
+### Does Soul Vessel work on things that are not damage, heat, or conditions?
+It should stop all effects of the trigger. <wot:426288556902842368/1067788460506746900>
+
 ### Chronostutter Errata?
 Chronostutter's text currently reads "The character taking the action is pushed up to 3 spaces". 
 
 This should instead read *"the target of the action* is pushed up to 3 spaces". <wot:426288556902842368/741749908448477281>
+
+### If the Unraveler fails to cause Structure Damage or destruction upon hitting, do you still apply any Bonus Damage?
+No, you would not, you would only apply the Reliable. <wot:426288556902842368/708321167886254130>
 
 ### Wandering Nightmare Errata?
 Wandering Nightmare should have the Unique tag. <wot:426288556902842368/854158565300633630>
@@ -381,22 +468,17 @@ This should instead read "choose any characters within the affected area" to mak
 ### Is a used Snapdragon Launcher a valid target for System Trauma?
 No. <wot:426288556902842368/937441581756219562>
 
+## Wallflower Part 1 184, HA Enkidu
+### Can you Bifurcate multiple times in a turn if it succeeds?
+Yes, you can continue to Bifurcate. (Refunding the action cost presumably means this does not violate the No Duplicate Action rule.) <wot:441336855951048725/755847169222639667>
+
 ## Wallflower Part 1 Page 196, Eidolons
 ### Do Eidolon layers count as new characters or the same character for the purposes of things like Eject Power Cores or Extrude Basilisk that only can be used on a character once per scene?
 Each layer counts as the same character. <wot:426288556902842368/937486090816880731>
 
-## Multi-license Interactions
-### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
-Yes.<wot:426288556902842368/703379534715682816>
-
-### If you use the Kidd's Reroute Power on the Black Witch's Perimeter Command Plate, is the System itself Destroyed or just the deployed plate?
-The Perimeter Command Plate System itself is Destroyed. <wot:426288556902842368/937486090816880731>
-
-### Do things that say that they don't stack with Invisible stack with each other?
-No, they do not. <wot:426288556902842368/955570468537135124>
-
-### Does Stay of Execution extend the duration of the Sagarmatha's Rallying Cry core power?
-No, it does not. The effects of Raise the Banner will run out at the normal time, and are not extended by Stay of Execution. <wot:426288556902842368/1133584152986390538>
+## Karrakin Trade Baronies Page 128, Black Thumb
+### If your mech becomes Intangible while you are in a Black Thumb Rodeo, what happens?
+You should go Intangible with it. <wot:426288556902842368/858223529845063711>
 
 ## Karrakin Trade Baronies Page 128, House Guard
 ### Does the fact that Front Rank makes you count as adjacent for traits affecting allied characters means that Guardian lets your allies use you as hard cover from 2 spaces away?
@@ -411,6 +493,15 @@ Sympathetic Shield should have the Unique tag. <wot:426288556902842368/976440526
 
 No, the change to the Bolt Nexus' profile is meant to occur after the initial attack resolves fully. The first attack against a target does the base 1 damage, then successive attacks with it gain the benefits of the enhanced profile. <wot:426288556902842368/976958186630303784>
 
+## Karrakin Trade Baronies Page 136, Intangible
+### How does Intangible interact with things like the Webjaw Snare or the Charged Stake?
+As the target and the deployable can no longer interact with each other, the effect ends. <wot:441336855951048725/842799782065864714>
+
+### Can you deploy things while Intangible?
+No, spaces are no longer valid targets for you to deploy things into. <wot:441336855951048725/767080634942095370>
+
+### Can the Omnigun get past Intangible?
+No, for the same reason you can't use the Omnigun on someone out of line of sight or out or range. <wot:426288556902842368/1047688164598349925>
 ## Solstice Rain Page 41, Miniaturized LinAc Coherent Beam Cannon
 ### Does the Miniaturized LinAc Coherent Beam Cannon proc Universal Compatibility?
 Yes, it serves as an alternate Core System, which is the requirement for proccing Universal Compatibility. It can still only be used 1/mission regardless of whether Universal Compatibility procs or you have a Core Battery reserve.
@@ -457,6 +548,11 @@ If an NPC has the Grunt template, any Heat from an external source will automati
 If an NPC has no Heat Cap at all, they take Heat as Energy Damage instead. <wot:426288556902842368/869278907692626001>
 
 ## NPC Classes
+
+## General NPC Questions
+### Can NPCs benefit from another NPC’s effects if they both have things that key off the same thing unique to the class (examples include Sniper's Mark and Focus Down)?
+Generally speaking, no, unless the NPC feature explicitly says otherwise. <wot:426288556902842368/700766213214830713>
+
 ## Page 288, Archer NPC
 ### The Archer's Covering Fire optional system doesn't list a duration. How long does it last?
 The area created by Covering Fire, and the ability for the Archer to use the associated Got Your Back reaction, should last until the end of the Archer's next turn after it uses this ability.
@@ -476,6 +572,10 @@ Broad-Haft Sweep works in conjunction with Kinetic Compensation, granting stacki
 ### The Priest's Sanctuary optional ability doesn't seem to list a duration for how long it lasts? Does it last indefinitely, or does it expire at a certain point?
 The Sanctuary effect should last until the end of the Priest's next turn. <wot:426288556902842368/859410683573043201>
 
+## Page 310, Ronin NPC
+### How does the Ronin’s Rebound work? Does it count as coming from yourself, or the Ronin? Is cover measured from the Ronin?
+The attack should count as coming from the Ronin for cover, effects triggering, and other things. <wot:426288556902842368/847986656035733544>
+
 ## Page 314, Seeder NPC
 ### How do Seeder Mines work? Why are they Invisible (the keyword) if they can't be targeted at all?
 Tom has gone on the record stating that the fact that Seeder mines are listed as Invisible is an error that was introduced in editing, as the original rules text was meant for them to be invisible, as in, "not visible to players on the map." This was erroneously changed to "Invisible, the keyword." In other words, the original intent was that players can't see them or target them, aside from the Systems check while in Sensors to reveal them and the subsequent Systems check to disarm them after they have been revealed. <wot:426288556902842368/1053313548824092764>
@@ -488,6 +588,39 @@ No, the two should be identical. Use the Archer's version for both.
 ### The rules text for the Moving Target reaction ends with "If the rifle isn't". What is it supposed to say?
 This is a typo; it should say "If the rifle isn’t loaded, the Sniper instead reloads it."
 
+## Page 319, Support NPC
+### Can involuntary movement separate a Latch Drone from the NPC it is stuck to?
+No, it can't move independently. <wot:426288556902842368/1095489894559793153>
+
+## Page 320, Witch NPC
+### Can holding a Prepared action prevent the effects of a Witch's Predatory Logic?
+No, the Witch would force you to drop the Prepared action. <wot:426288556902842368/801675901343236167>
+
 ## Page 326, NPC Templates
 ### If an NPC has multiple traits with the same name from different sources (like getting Deadly from taking both the Pirate and Ultra templates), do they stack? What about template features like Reinforced?
 Generally speaking, things with the same name are not intended to stack, so something like Deadly wouldn't apply twice, but features that grant additional Structure and Stress are intended to stack. <wot:426288556902842368/955570468537135124>
+
+## Page 330, Ultra Template
+### How do Volley Module and Ravager Turret interact?
+Ravager turret would still only fire a single attack roll at each eligible target. It would not fire at everyone for each PC affected. <wot:426288556902842368/736270714398703656>
+
+## Page 332, Veteran Template
+### Does the Veteran Template’s Viper’s Speed activate only once at the start of combat, or every round?
+Only at the start of the first round of combat. <wot:426288556902842368/799058895141601300>
+
+## Multi-license Interactions
+### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
+Yes.<wot:426288556902842368/703379534715682816>
+
+### If you use the Kidd's Reroute Power on the Black Witch's Perimeter Command Plate, is the System itself Destroyed or just the deployed plate?
+The Perimeter Command Plate System itself is Destroyed. <wot:426288556902842368/937486090816880731>
+
+### Do things that say that they don't stack with Invisible stack with each other?
+No, they do not. <wot:426288556902842368/955570468537135124>
+
+### Does Stay of Execution extend the duration of the Sagarmatha's Rallying Cry core power?
+No, it does not. The effects of Raise the Banner will run out at the normal time, and are not extended by Stay of Execution. <wot:426288556902842368/1133584152986390538>
+
+### How do Argonaut Shield and Sympathetic shield interact?
+You’d take the amount of damage that would be done to the Overshield, and then half that amount again for the Argonaut Shield. Damage would then be resolved from there, with the ally resisting the attack. <wot:426288556902842368/700767069641244672> 
+
