@@ -568,6 +568,10 @@ The Bombard's Cluster Munitions are explicitly not Bonus Damage, as it is not la
 ### Does the Demolisher's Broad-Haft Sweep optional system count as using the Demolisher Hammer weapon for the purpose of its Kinetic Compensation optional trait, which gives the Demolisher additional Accuracy on subsequent attacks after missing with the hammer, or does it have to use the Demolisher Hammer specifically in order to trigger Kinetic Compensation's benefits?
 Broad-Haft Sweep works in conjunction with Kinetic Compensation, granting stacking Accuracy on missed attacks until the next hit. <wot:426288556902842368/971749509669470248>
 
+## Page 304, Mirage NPC
+### How long does the effect of Illusory Subroutines last?
+The "their" in "their next turn" should refer to the Mirage, and the effect should last until the start of the Mirage's next turn. <wot:426288556902842368/915195436397133905>
+
 ## Page 307, Priest NPC
 ### The Priest's Sanctuary optional ability doesn't seem to list a duration for how long it lasts? Does it last indefinitely, or does it expire at a certain point?
 The Sanctuary effect should last until the end of the Priest's next turn. <wot:426288556902842368/859410683573043201>
