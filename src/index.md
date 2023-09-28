@@ -464,6 +464,9 @@ Wandering Nightmare should have the Unique tag. <wot:426288556902842368/85415856
 The Warp Grenade effect of Blink Charges currently reads "choose any character within the affected area".
 This should instead read "choose any characters within the affected area" to make it clear that it can affect multiple targets. <wot:441336855951048725/727938103209361478>
 
+### Can the Sunzi target it self with it's own Blink Anchor
+Yes. <wot:441336855951048725/679397496279138314>
+
 ## Wallflower Part 1 Page 42, Snapdragon Launcher
 ### Is a used Snapdragon Launcher a valid target for System Trauma?
 No. <wot:426288556902842368/937441581756219562>
