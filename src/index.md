@@ -460,6 +460,9 @@ No, you would not, you would only apply the Reliable. <wot:426288556902842368/70
 Wandering Nightmare should have the Unique tag. <wot:426288556902842368/854158565300633630>
 
 ## Long Rim Page 59, HA Sunzi
+### Is the Sunzi allowed to use its Blink Anchor on itself when it teleports?
+Yes, you can use the Blink Anchor effect on yourself to change your destination to a free space next to the Blink Anchor when you teleport, such as when you Slip. <wot:441336855951048725/679397496279138314>
+
 ### Blink Charges Errata?
 The Warp Grenade effect of Blink Charges currently reads "choose any character within the affected area".
 This should instead read "choose any characters within the affected area" to make it clear that it can affect multiple targets. <wot:441336855951048725/727938103209361478>
