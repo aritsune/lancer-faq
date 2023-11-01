@@ -638,4 +638,4 @@ No, it does not. The effects of Raise the Banner will run out at the normal time
 You’d take the amount of damage that would be done to the Overshield, and then half that amount again for the Argonaut Shield. Damage would then be resolved from there, with the ally resisting the attack. <wot:426288556902842368/700767069641244672> 
 
 ### Does the free Scan you get from making Tech Attacks due to the Chomolungma's Data Siphon trait count for Orator: Convincing Rhetoric?
-No, it shouldn't. <wot:426286410496999425/1029040418698051705/1029078406400331806>
+No, it shouldn't. <wot:428263462809108480/1129332427635052574>
