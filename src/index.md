@@ -204,6 +204,9 @@ You are allowed to use Impact with Cannons that have the Ordnance tag and it wil
 ### Does the push part of Siege Specialist: Impact allow you to attack a character Engaged with you with an Ordnance weapon by breaking adjacency with them and thus Engagement?
 No, you need to have declared a valid attack already, and Engaged characters are not valid for Ordnance. <wot:426288556902842368/669015861280899072>
 
+### Does the Burst effect of Siege Specialist: Collateral Damage apply to the target you Critically Hit?
+No, the Burst doesn't affect the center target. <wot:426288556902842368/778334891019993108>
+
 ## Page 102, Tactician
 ### Do I get the Tactician: Solar Backdrop benefit for attacking at a higher elevation if my mech is a larger size than the target I'm shooting at?
 No, Solar Backdrop doesn't care about relative mech size/height, only whether your position on the map is a higher elevation than the target you're shooting at. Measure from your feet, not from your head.
@@ -379,6 +382,9 @@ No.
 ## Page 214, HORUS Minotaur
 ### How does the Minotaur's Metafold Maze work with the Logic Bomb invade option from Viral Logic Suite? Targets Slowed by this option aren't the ones who were initially targeted by the tech attack, so can Metafold Maze be used against them?
 Per Tom, all targets affected by the Logic Bomb's area Slow can be affected by a single activation of Metafold Maze, even though the rules as written currently do not indicate as such. <wot:441336855951048725/941160041644441610>
+
+### Does Logic Bomb from Viral Logic Suite allow you to force the target of the Invade to make a Systems save or be Slowed?
+No, the Burst doesn't affect the center target. <wot:426288556902842368/778334891019993108>
 
 ## Page 218, HORUS Pegasus
 ### What does ¿%:?EXTR!UDE GUN actually do?
@@ -631,3 +637,5 @@ No, it does not. The effects of Raise the Banner will run out at the normal time
 ### How do Argonaut Shield and Sympathetic shield interact?
 You’d take the amount of damage that would be done to the Overshield, and then half that amount again for the Argonaut Shield. Damage would then be resolved from there, with the ally resisting the attack. <wot:426288556902842368/700767069641244672> 
 
+### Does the free Scan you get from making Tech Attacks due to the Chomolungma's Data Siphon trait count for Orator: Convincing Rhetoric?
+No, it shouldn't. <wot:426286410496999425/1029040418698051705/1029078406400331806>
