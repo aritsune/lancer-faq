@@ -530,6 +530,16 @@ The effect of the Smoke Grenade is "All characters and objects within the blast 
 
 No, the heat it deals is part and parcel with the heat that Invades normally do. This means if used on an ally, it does no heat. This also means that the heat it deals is one packet and not two separate ones, in instances where that may matter.
 
+## Siren's Song, A Mountain's Remose Page 82, IPS-N Empakaai
+### Does the Colossus Termo-Unguis’s “before hit” effect on a failed Hull save trigger Brawler 3’s Brawler Die to count down by 1?
+No, a target becomes grappled as a result of falling a Hull save, and Brawler 3’s Brawler Die only counts down with a successful Free Action Grapple or Quick Action Grapple.
+
+### Does the Colossus Termo-Unguis’s “before hit” effect on a failed Hull save trigger Titanomachy Mesh’s 1/round successful Ram or Grapple effect?
+No, with the Termo-Unguis a target becomes grappled as a result of falling a Hull save, and Titanomachy Mesh’s 1/round successful Ram or Grapple effect only works with a successful Free Action Grapple or Quick Action Grapple.
+
+### What does the Empakaai’s Untenable Power trait do?
+1/round, whenever a character would have to make a save or a check forced by the Empakaai (ie. its Colossus Termo-Unguis) it may impose +1 difficulty on that save or check before that character rolls. 
+
 ## NPC General Rules
 
 ## Page 280, NPC Actions
