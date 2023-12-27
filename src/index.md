@@ -112,6 +112,9 @@ It does not -- the halved damage from effects such as Heavy Gunner is not a *red
 ### How does Resistance to Burn work? Does it halve the end of turn damage *twice*?
 It does not. Resistance to Burn only affects the initial damage, and not the end-of-turn ticks. If you take 4 Burn and resist it, you will take 2 Burn damage and mark 2 Burn stacks, but you will take 2 Burn damage if you fail the EOT check. <wot:426288556902842368/712402522077265991>
 
+### If a character is Impaired until the end of their next turn and has Burn marked on them, does the Impaired affect their end-of-turn Burn Engineering check on that turn?
+Yes, it does. <wot:426288556902842368/725428893552607294>
+
 ### If a character is hit by an attack and the damage is reduced to 0, such as by armor or a system like the Drake's Aegis Shield Generator, does that still count as "taking damage" for the purpose of triggers such as the Genghis' Auto-Cooler?
 Yes, an instance of damage that is reduced to 0 damage such as by armor still counts as taking damage for those purposes. Immunity to damage overrides this as it specifically notes on page 68 under the Immunity section. <wot:426288556902842368/718463769826820143>
 
