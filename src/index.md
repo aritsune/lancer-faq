@@ -500,6 +500,9 @@ No, the default hard cover rules still apply, and so they would still need to be
 ### Sympathetic Shield Errata?
 Sympathetic Shield should have the Unique tag. <wot:426288556902842368/976440526293331968>
 
+### Can you stack uses of Camus's Razor by taking the quick action multiple times?
+Yes, you can. (Remember that the restriction on duplicate actions still applies, so you cannot use both of your normal quick actions in a turn to just use Camus's Razor twice. You could overcharge to do so, use some other means of taking the quick action as a free action, or simply use it once a turn on different turns.) <wot:972926357417914418/972932441222316122>
+
 ## Karrakin Trade Baronies Page 136, SSC Emperor
 ### The Bolt Nexus has an on hit effect which raises its damage from 1 to 4 until you attack a different target. Is this meant to apply to the first attack you make against a target by choosing to apply the on hit effect first?
 
