@@ -414,8 +414,8 @@ The 1d6 damage from the flames only happens once per round. <wot:426288556902842
 ### When the Iskander uses its Mine Deployers trait, do these additional deployed mines also consume charges from the system being used?
 Yes.
 
-### Is the Gravity Gun affected by Invisibility?
-No. The Gravity Gun's use is, technically speaking, an attack. If your mech is unable to make attacks for some reason, such as being Jammed, it cannot use the Gravity Gun. But the actual effect of the Gravity Gun when you attack with it is one that has no associated to hit roll of any sort, functioning instead more like a grenade or mine, and so there's no way for it to "miss" like a regular attack would, even if the target is Invisible. This also means that the Gravity Gun does not benefit from anything that would trigger on hit or on crit since it can do neither of those things.
+### Is the Gravity Gun affected by Invisibility? Can you use it while Jammed? Does it make attack rolls like a normal weapon?
+If your mech is unable to make attacks for some reason, such as being Jammed, it cannot use the Gravity Gun. However, when you attack with it, rather than making attack rolls like you would with a conventional weapon, it forces the targets in the area to make a save, functioning instead more like a grenade or mine. Because of this, there's no way for it to "miss" like a regular attack would, even if the target is Invisible. This also means that the Gravity Gun does not benefit from anything that would trigger on hit or on crit as it can do neither of those things, since you never make any actual attack rolls. <wot:426288556902842368/727623931376304239>
 
 ### Can the Gravity Gun "benefit" from the increased Save Target from the core bonus The Lesson of the Open Door?
 Yes, the Save Target is being modified, not the Gravity Gun. <wot:426288556902842368/706875386281328650>
