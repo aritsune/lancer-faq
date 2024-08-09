@@ -546,6 +546,50 @@ No, with the Termo-Unguis a target becomes grappled as a result of falling a Hul
 ### What does the Empakaai’s Untenable Power trait do?
 1/round, whenever a character would have to make a save or a check forced by the Empakaai (ie. its Colossus Termo-Unguis) it may impose +1 difficulty on that save or check before that character rolls. 
 
+## Winter Scar Page 54, HA Gilgamesh
+### How does the Gilgamesh's Loadout Die work with Walking Armory 3, which refunds charges on a critical hit? What if I spent the Loadout Die on a Walking Armory enhanced attack which then critically hit? Do I have to undo that roll? Do I undo ticking the Loadout Die?
+Walking Armory charges are spent when declaring an attack, and only refunded via Walking Armory 3 if you score a critical hit. This refund will not retroactively undo any ticking down of the Loadout Die, nor will it undo any rerolls you make with the Loadout Die if you happen to tick it down and then spend it for a reroll.
+
+### Can the Gilgamesh use Exo-Amplification while under the effect of the Napoleon license's Stasis Generator to clear the Stunned and be able to move and act while still being immune to damage and effects?
+No. While the Gilgamesh could normally use Exo-Amplification while Stunned as per the core active itself, Stasis Generator makes the targeted mech immune to all effects, not just hostile ones. As such, the Gilgamesh would be immune to the effects of Exo-Amplification while under the effect of Stasis Generator.
+
+### Does the Legion Nexus count as a system for the purpose of things like the Kidd's Recycle or Rapid Deployment traits?
+No, it's a weapon and not a system. It can use Reroute Power on legion drones, but neither Recycle or Rapid Deployment will work with it.
+
+### Does Demolitionist 3 (Fire in the Hole) work with the Gilgamesh's Anti-Armor Rocket option from SPEAR Charges?
+Yes, and it does so for other single-target type grenades such as Mesmer Beacons from the Minotaur license as well. You can take take "within range 3 of the targeted space" to also include targeted characters as well for those grenades which work that way.
+
+## Winter Scar Page 58, SSC Amber Phantom
+### If I take heat to gain bonus damage with an Amber Phantom when acting outside of my declared turn, can that enable Nuclear Cavalier's bonus damage?
+No. Nuclear Cavalier gives you bonus heat and/or damage on your first attack made while in the Danger Zone on your turn, or if you enter the Danger Zone during your turn it takes place on your next attack. Gaining heat in the course of an attack that was not made while in the Danger Zone will not activate the Nuclear Cavalier bonuses, as the attack was not made while in the Danger Zone and that attack does not count as "your next attack." The heat accrued from using the Amber Phantom's core passive to gain bonus damage this way does not apply until you have hit with an attack and choose to gain the bonus damage. 
+
+This applies to other forms of gaining heat mid-attack as well. Rolling multiple 1's on damage dice with an Overkill weapon which pushes you into the Danger Zone will not cause Nuclear Cavalier to activate, nor will weapons that come with optional heat costs that occur mid-attack such as the Gilgamesh's Superthermal Blade.
+
+### Can I use the Amber Phantom's Convergence Point on an allied Goblin which is using its Symbiosis core system?
+No. Once a Goblin is attached to another character via Symbiosis, they no longer take their own turns, only acting when the PC they're attached to does. You would need to use Convergence Point on the PC the Goblin is attached to, and the Goblin would then take their actions during their host's turn. 
+
+This also means that a Goblin with Symbiosis active no longer counts as being part of the PC turn order the Amber Phantom must choose among with Possibility Mapping (i.e. in a group with three PCs, if one of them is a Goblin with Symbiosis active then there are now only two turns to choose between in the PC turn order).
+
+## Winter Scar Page 60, HORUS Lycan
+### Does the Lycan's Shock Claws' "On Attack" effect become halved when used with the Executioner talent's Backswing Cut?
+Yes.
+
+### What happens if I activate the Lycan's Go Loud more than once in a scene (such as if Core Power is refunded via Universal Compatibility or through a Core Battery reserve)? Will the Shock Claws gain additional benefits if the conditions for those have been met since the first time you activated Go Loud?
+The Shock Claws check for upgrades the first time you activate Go Loud in a scene only. Spending Core Power to activate it after the first activation in a scene will not prompt further upgrades even if conditions have been met in the meantime. However, re-activating Go Loud will grant you the move equal to your Speed and attack with the Shock Claws against a target within range, should you wish to do so. Spending Core Power this way will also proc Universal Compatibility again if you have that Core Bonus.
+
+## Winter Scar Page 62, HA Kutuzov
+### When piloting a Kutuzov, if I take a Full Tech action but use two Quick Tech systems with the Shield tag (such as those from the Emperor license), which level of benefit can I gain from Parallel Emitters? What if I take a Full Tech action but only one of the choices has the Shield tag?
+The Full Tech action itself is comprised of either one system which requires a Full Tech to use, or two options with the Quick Tech requirement. As Parallel Emitters works only 1/round and as taking two Quick Tech actions have to happen sequentially, your 1/round use of Parallel Emitters will kick in when using one of those Quick Tech systems, entitling you to the Quick Action tier benefit. This applies whether the entire Full Tech is made up of Quick Tech Shield systems or only half of it.
+
+### When using Parallel Projectors, what counts as the "overall cost of the action?"
+Essentially this means the overall action cost you spent to use a Shield tagged system or to Stabilize. For example, Stabilize is normally a Full Action, but with the Sherman license's Redundant Systems Upgrade, you can Stabilize as a Quick Action instead. If you do so while piloting a Kutuzov, then the overall action cost of that Stabilize is a Quick Action. Similarly, overcharging to use a Quick Action system with the Shield tag as a Free Action will grant you the benefit of a Free Action expenditure if you choose to have that be your 1/round use of Parallel Projectors.
+
+### When a character is benefitting from the Kutuzov's Projected Aegis, what happens if they're caught in an AoE attack by their reciprocal NPC or that NPC uses something like a Ravager Turret? Will that prevent the NPC from making the entire AoE or multi-target attack?
+Characters benefitting from Projected Aegis can't be attacked by the chosen NPC and vice versa, but this won't prevent entire AoE attacks or "attack everyone" type abilities, those attacks will simply ignore that character while continuing to affect everyone else as normal.
+
+### When Projected Aegis is active, what happens if a character triggers a mine (or some similar sort of thing) placed by the character they're mutually prevented from attacking or taking actions that force saves against?
+Projected Aegis prevents characters from forcing saves against one another via actions. For example, an Assault NPC with the Micro-Missile Barrage optional could place the line in such a way that it overlaps a mutually Aegis'd PC, but that PC would ignore the effect entirely. Meanwhile, a Hornet couldn't even target such a character with Lock/Hold Javelins, nor could a Demolisher target them with Sap. Something like a mine, however, is not an action that forces a save. It does force a save, but while it's associated with a specific character, it doesn't count as them taking an action to force it, the save occurs as a sort of indirect consequence of stepping in the wrong place, and the Projected Aegis won't do anything about it. Likewise, actions which do not count as attacks or saves are valid to target one another with, such as the deterministic damage of a GMS Turret Drone, the contested check of a Blackbeard's Reinforced Cabling, a Goliath NPC's Crush Targeting, etc.
+
 ## NPC General Rules
 
 ## Page 280, NPC Actions
