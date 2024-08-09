@@ -557,7 +557,7 @@ No. While the Gilgamesh could normally use Exo-Amplification while Stunned as pe
 No, it's a weapon and not a system. It can use Reroute Power on legion drones, but neither Recycle or Rapid Deployment will work with it.
 
 ### Does Demolitionist 3 (Fire in the Hole) work with the Gilgamesh's Anti-Armor Rocket option from SPEAR Charges?
-Yes, and it does so for other single-target type grenades such as Mesmer Beacons from the Minotaur license as well. You can take take "within range 3 of the targeted space" to also include targeted characters as well for those grenades which work that way.
+Yes, and it does so for other single-target type grenades such as Mesmer Beacons from the Minotaur license as well. You can take "within range 3 of the targeted space" to also include targeted characters as well for those grenades which work that way.
 
 ## Winter Scar Page 58, SSC Amber Phantom
 ### If I take heat to gain bonus damage with an Amber Phantom when acting outside of my declared turn, can that enable Nuclear Cavalier's bonus damage?
