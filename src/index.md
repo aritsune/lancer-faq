@@ -673,6 +673,9 @@ No, the Witch would force you to drop the Prepared action. <wot:4262885569028423
 ### If an NPC has multiple traits with the same name from different sources (like getting Deadly from taking both the Pirate and Ultra templates), do they stack? What about template features like Reinforced?
 Generally speaking, things with the same name are not intended to stack, so something like Deadly wouldn't apply twice, but features that grant additional Structure and Stress are intended to stack. <wot:426288556902842368/955570468537135124>
 
+### If an NPC takes more than one turn a round, how does that interact with abilities that are 1/round?
+In most cases, they are still only able to use 1/round abilities once a round, refreshing when they start their first turn that round as usual. However, NPCs with the Ultra template specifically refresh Reactions each time they take a turn due to their Shock and Awe feature, and can Overwatch unlimited times per round as due to their Reflex feature. <wot:426288556902842368/746236515008512072>
+
 ## Page 330, Ultra Template
 ### How do Volley Module and Ravager Turret interact?
 Ravager turret would still only fire a single attack roll at each eligible target. It would not fire at everyone for each PC affected. <wot:426288556902842368/736270714398703656>
