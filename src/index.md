@@ -153,7 +153,7 @@ No. Barrage says that you attack with two weapons or one Superheavy weapon. The 
 
 ## Page 73, Overcharge
 ### Can you Overcharge, do something else, and then spend the Quick Action you gained via Overcharge?
-No, when you Overcharge, you gain the Heat and then immediately perform the Quick Action you Overcharged to do. <wot426288556902842368/704095913228107798>
+No, when you Overcharge, you gain the Heat and then immediately perform the Quick Action you Overcharged to do. <wot:426288556902842368/704095913228107798>
 
 ## Page 73, Reactions
 ### Can you take Reactions before your first turn in combat?
