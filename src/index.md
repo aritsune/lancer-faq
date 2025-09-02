@@ -536,7 +536,11 @@ The effect of the Smoke Grenade is "All characters and objects within the blast 
 
 No, the heat it deals is part and parcel with the heat that Invades normally do. This means if used on an ally, it does no heat. This also means that the heat it deals is one packet and not two separate ones, in instances where that may matter.
 
-## Siren's Song, A Mountain's Remose Page 82, IPS-N Empakaai
+## Siren's Song, A Mountain's Remorse Page 13, Kinesthetic Suit Upgrade
+### Kinesthetic Suit Upgrade Errata?
+Spatial Awareness should only be triggered by hostile characters. <wot:426288556902842368/1219829370718523453>
+
+## Siren's Song, A Mountain's Remorse Page 82, IPS-N Empakaai
 ### Does the Colossus Termo-Unguis’s “before hit” effect on a failed Hull save trigger Brawler 3’s Brawler Die to count down by 1?
 No, a target becomes grappled as a result of falling a Hull save, and Brawler 3’s Brawler Die only counts down with a successful Free Action Grapple or Quick Action Grapple.
 
