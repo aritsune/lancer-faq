@@ -497,6 +497,9 @@ You should go Intangible with it. <wot:426288556902842368/858223529845063711>
 No, the default hard cover rules still apply, and so they would still need to be adjacent to you and the cover would only apply directionally like usual. The soft cover effect granted by Greater Guardian works just fine at range 2 though. <wot:426288556902842368/963897069330894898>
 
 ## Karrakin Trade Baronies Page 132, SSC White Witch
+### Does Ferroreactive Armor stack with Sloped Plating?
+Yes, a White Witch with the Sloped Plating core bonus caps at a maximum of 7 Armor normally and 13 Armor while Hyperactive Mode is active. <wot:441336855951048725/635190122379477052>
+
 ### Sympathetic Shield Errata?
 Sympathetic Shield should have the Unique tag. <wot:426288556902842368/976440526293331968>
 
