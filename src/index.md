@@ -384,7 +384,7 @@ No.
 
 ## Page 214, HORUS Minotaur
 ### How does the Minotaur's Metafold Maze work with the Logic Bomb invade option from Viral Logic Suite? Targets Slowed by this option aren't the ones who were initially targeted by the tech attack, so can Metafold Maze be used against them?
-Per Tom, all targets affected by the Logic Bomb's area Slow can be affected by a single activation of Metafold Maze, even though the rules as written currently do not indicate as such. <wot:441336855951048725/941160041644441610>
+Per Tom, all targets affected by the Logic Bomb's area Slow can be affected by a single activation of Metafold Maze, even though the rules as written currently do not indicate as such. Please note that the specific details as to the intent behind this ruling were not shared, making it difficult to extrapolate how other similar interactions are intended to work. <wot:441336855951048725/941160041644441610>
 
 ### Does Logic Bomb from Viral Logic Suite allow you to force the target of the Invade to make a Systems save or be Slowed?
 No, the Burst doesn't affect the center target. <wot:426288556902842368/778334891019993108>
@@ -675,6 +675,9 @@ No, it can't move independently. <wot:426288556902842368/1095489894559793153>
 ## Page 320, Witch NPC
 ### Can holding a Prepared action prevent the effects of a Witch's Predatory Logic?
 No, the Witch would force you to drop the Prepared action. <wot:426288556902842368/801675901343236167>
+
+### Can a Witch's Predatory Logic force you to fire a Superheavy weapon?
+No, Superheavy weapons can only be fired as part of a Barrage. In order to bypass this restriction, Predatory Logic would have to explicitly state that it could do so.
 
 ## Page 326, NPC Templates
 ### If an NPC has multiple traits with the same name from different sources (like getting Deadly from taking both the Pirate and Ultra templates), do they stack? What about template features like Reinforced?
